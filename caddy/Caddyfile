@@ -19,16 +19,15 @@ root * /usr/share/caddy
     path *.js
     path *.css
     path *.ico
-    path *.json
 }
 
 # https://ashton.codes/set-cache-control-max-age-1-year/#:~:text=It's%20standard%20practice%20to%20set,seconds%2C%20which%20is%20one%20year.
 header @static +Cache-Control "public, max-age=31536000, must-revalidate"
 
 header {
-    Access-Control-Allow-Methods "GET, POST, PUT, DELETE, OPTIONS"
-    Access-Control-Allow-Headers "Content-Type, Authorization"
-    Access-Control-Allow-Credentials false
+    Access-Control-Allow-Origin *
+    Access-Control-Allow-Methods *
+    Access-Control-Allow-Headers *
 }
 
 header / {

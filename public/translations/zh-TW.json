@@ -1,0 +1,1925 @@
+{
+  "365": {
+    "chess": "365棋牌"
+  },
+  "369": {
+    "profile": {
+      "title": "個人資料",
+      "emailAddress": "郵件地址",
+      "notYetSet": "未設定",
+      "notYetVerified": "未認證"
+    }
+  },
+  "lang": {
+    "language": "語言",
+    "zh-TW": "繁體",
+    "zh-CN": "简体",
+    "en-US": "English",
+    "th-TH": "ไทย",
+    "id-ID": "Indonesia",
+    "vi-VN": "Tiếng Việt",
+    "hi-IN": "हिन्दी",
+    "ta-IN": "தமிழ்",
+    "tgl-PH": "Tagalog",
+    "ja-JP": "日本語"
+  },
+  "error": {
+    "ERR101": "無效的憑證。",
+    "ERR201": "找不到玩家。",
+    "ERR202": "玩家已被禁。",
+    "ERR401": "請檢查您的輸入。",
+    "ERR500": "內部錯誤。"
+  },
+  "panel": {
+    "im": "即時通訊",
+    "cs": "客服",
+    "imLong": "即時通訊",
+    "liveChatWelcome": "【客服中心】歡迎你！",
+    "liveChatDescription": "請選擇你的問題類型以重大服務速度！",
+    "liveChatOptionFund": "點數問題",
+    "liveChatOptionBall": "球賽問題",
+    "liveChatOptionLive": "真人游戏",
+    "liveChatOptionLottery": "彩球游戏",
+    "liveChatOptionRegister": "注册问题",
+    "liveChatOptionSlot": "电子游戏"
+  },
+  "support": {
+    "contactnow": "立即聯繫",
+    "online": "在線客服",
+    "contact": "聯繫",
+    "qr": "二維碼客服",
+    "join": "加入"
+  },
+  "common": {
+    "currentEmail": "當前郵箱",
+    "nodata": "查無資料",
+    "maintenance": "維護時間",
+    "pleaseEnterAccountName": "請输入銀行名稱",
+    "noReachMin": "手機號碼設定在8至10位數",
+    "noReachLength": "手機號碼設定在{maxlength}位數",
+    "upload": "上傳文件",
+    "upload2": "點擊選擇文件",
+    "title": "{brand} - 專業娛樂平台",
+    "register": "註冊",
+    "login": "登錄",
+    "submit": "提交",
+    "confirm": "確定",
+    "back": "返回",
+    "check": "立即查看",
+    "nextStep": "下一步",
+    "more": "查看更多",
+    "send": "發送",
+    "choose": "選擇",
+    "complete": "完成",
+    "close": "關閉",
+    "cancel": "取消",
+    "delete": "刪除",
+    "search": "搜索",
+    "verified": "已認證",
+    "configured": "已驗證",
+    "phoneNumber": "手機號碼",
+    "btnTokenLabel": "獲取驗證碼",
+    "token": "驗證碼",
+    "btnTokenResendLabel": "重新發送",
+    "msgInvalidInvitationCode": "邀請碼無效",
+    "msgSendToken": "發送驗證碼",
+    "msgTokenSent": "驗證碼發送成功",
+    "msgTokenVerified": "驗證成功",
+    "msgEnterPhone": "請輸入您的手機號碼",
+    "msgEnterEmail": "請輸入您的郵箱地址",
+    "msgInvalidEmail": "郵箱地址不正確",
+    "msgEnterCode": "請輸入驗證碼",
+    "msgEnterCodeEmail": "請輸入驗證碼",
+    "msgInvalidPhoneCode": "驗證碼錯誤",
+    "msgEnterEmailCode": "請輸入郵箱驗證碼",
+    "msgEnterPhoneCode": "請輸入手機驗證碼",
+    "msgInvalidConfirmPass": "兩次密碼要一致",
+    "msgInvalidOldPass": "舊密碼不正確",
+    "msgRegisterUserNameInvalid": "賬戶長度必須是在6到16位之間，且必須為數字或小寫字母",
+    "msgRegisterUserNameInvalidOri": "賬戶長度必須在6到16位數字之間，且必須由數字、字母或組合組成",
+    "msgRegisterPassInvalid": "密碼長度必須在6到20位數字之間",
+    "msgRegisterPassMatchInvalid": "密碼必須與確認密碼相同",
+    "msgRegisterTermAndCondition": "請確認您已閱讀我們的條款和條件",
+    "msgRegisterWithdrawalPassInvalid": "提款密碼應為6位數字",
+    "msgRegisterWithdrawalPassMatchInvalid": "提款密碼必須與確認提款密碼相同",
+    "msgAlreadyExist": "用戶名稱已存在",
+    "emailAddress": "郵箱地址",
+    "qqNumber": "QQ賬號",
+    "wechatNumber": "微信賬號",
+    "wechat": "微信賬號",
+    "fb": "Facebook Messenger 賬號",
+    "telegram": "Telegram 賬號",
+    "line": "Line 賬號",
+    "viber": "Viber 賬號",
+    "whatsapp": "Whatsapp 賬號",
+    "zalo": "Zalo 賬號",
+    "receiverAddress": "收貨地址",
+    "loginPassword": "登錄密碼",
+    "contact": "聯繫",
+    "customerService": "在線客服",
+    "withdrawalPassword": "提款密碼",
+    "securityQuestion": "安全問題",
+    "realName": "真實姓名",
+    "teamVP": "Virtus.pro",
+    "teamFrankfurt": "德甲法蘭克福",
+    "g2Esport": "G2 Esports",
+    "amount": "金額",
+    "support": "如有問題，請及時",
+    "contactus": "聯繫我們",
+    "comingSoon": "盡情期待",
+    "sports": "體育電競",
+    "sportsonly": "體育賽事",
+    "horserace": "賽馬",
+    "sport": "體育",
+    "esports": "電競",
+    "live": "真人娛樂",
+    "lottery": "彩票遊戲",
+    "chess": "棋牌遊戲",
+    "slot": "老虎機",
+    "electron": "電子遊戲",
+    "qipai": "棋牌遊戲",
+    "slots": "老虎機",
+    "table": "電子遊戲",
+    "fish": "捕魚",
+    "shootFish": "捕魚",
+    "promotion": "優惠活動",
+    "download": "下載",
+    "home": "首頁",
+    "member": "會員",
+    "csPhoneNumber": "000-000-0000",
+    "bank": "銀行",
+    "dollor": "",
+    "copy": "拷貝",
+    "reload": "重新加載",
+    "msgPopupBlocker": "自動彈窗被攔截了，請手動開啟",
+    "username": "用戶名",
+    "password": "密碼",
+    "msgEnterUsername": "請輸入用戶名",
+    "msgEnterPassword": "請輸入密碼",
+    "deposit": "存款",
+    "withdrawal": "提款",
+    "transfer": "轉賬",
+    "info": "提示",
+    "update": "修改",
+    "reset": "重置",
+    "msgEnterNewPass": "請輸入新密碼",
+    "NewPass": "新密碼",
+    "msgEnterOldPass": "請輸入舊密碼",
+    "oldPass": "舊密碼",
+    "msgEnterConfirmPass": "請再次輸入新密碼",
+    "ConfirmPass": "確認新密碼",
+    "language": "語言",
+    "startGame": "立即體驗",
+    "cs": "客服",
+    "msgSuccessUpdateProfile": "修改成功。",
+    "favoriteGame": "加到最愛",
+    "joinGame": "立刻體驗",
+    "withdrawalBankType": "類別",
+    "withdrawalChannel": "渠道",
+    "withdrawalNumber": "銀行卡號碼/加密貨幣地址",
+    "msgEnterWithdrawalNumber": "請輸入銀行卡號碼/加密貨幣地址",
+    "msgEmailExist": "電子郵件地址已存在",
+    "msgRequiredTurnover": "您的投注流水不足，無法提款。 如有問題，請聯繫客服。",
+    "msgInvalidUsername": "帳號或密碼錯誤",
+    "msgInvalidWithdrawalPassword": "提款密碼不正確",
+    "msgRequestFailed": "請求失敗，請聯繫客服",
+    "termsAndCondition": "條款和條件",
+    "exit": "登出",
+    "playeronline": "在線人數",
+    "cockfight": "鬥雞",
+    "virtualsports": "虛擬體育",
+    "egame": "電子遊戲",
+    "livedealer": "真人娛樂",
+    "qq": "QQ賬號",
+    "donotshowagain": "不再顯示",
+    "hello": "Hello",
+    "wagering": "流水"
+  },
+  "affiliate": {
+    "title": "推廣賺錢",
+    "details": "推廣詳情",
+    "downline": "我的會員",
+    "report": "業績賬單",
+    "info": "返佣說明",
+    "qrCode": "推廣二維碼",
+    "promoId": "我的推廣 ID",
+    "promoLink": "推廣鏈接",
+    "memberName": "用戶名",
+    "UUID": "UUID",
+    "dateTime": "時間",
+    "transAmount": "交易金額",
+    "commission": "佣金",
+    "status": "狀態",
+    "copied": "已復制"
+  },
+  "card": {
+    "title": "管理銀行卡",
+    "myCard": "我的銀行卡",
+    "tail": "尾號",
+    "transferRecord": "轉賬紀錄",
+    "removeCard": "卡片移除",
+    "checkDetails": "查詢",
+    "remove": "刪除",
+    "msgSlideToDelete": "滑動以刪除銀行卡",
+    "msgAddCard": "添加銀行卡",
+    "msgAddCardDesc": "添加銀行卡後即可進行轉出提款,至多{maxCardCount}張。",
+    "toEdit": "無法添加、編輯和刪除。如需幫助，請聯繫客服",
+    "addCard": {
+      "title": "添加銀行卡",
+      "subTitle": "銀行卡卡號需是15-19位數字",
+      "msgSelectBank": "請輸入銀行",
+      "msgEnterCard": "請輸入銀行卡號",
+      "BankName": "銀行名稱",
+      "msgEnterBankName": "請輸入銀行名稱",
+      "BankAccountName": "銀行帳戶名稱",
+      "msgEnterBankAccountName": "請輸入銀行帳戶名稱",
+      "cardHolder": "持卡人",
+      "msgEnterCardHolder": "請輸入持卡人姓名",
+      "cardNum": "銀行卡號",
+      "desc": "資訊加密處理，僅用銀行驗證",
+      "branch": "支行",
+      "branchPlaceHolder": "請輸入銀行支行",
+      "eWalletAccount": "電子貨幣名稱",
+      "msgEnterEwalletAccount": "請輸入電子貨幣名稱",
+      "phone": "電話號碼",
+      "msgEnterPhone": "請輸入電話號碼"
+    },
+    "success": {
+      "title": "添加銀行卡成功",
+      "successDesc": "恭喜您已經設定完成銀行卡綁定，後續在提款時可以快速選取您的銀行卡，若還想綁定其他銀行卡，",
+      "successDescDeposit": "恭喜您已經設定完成銀行卡綁定.",
+      "bindDesc": "請點選下方“綁定其他銀行卡”再次進行操作。",
+      "reminder": "貼心提醒",
+      "callHotline": "或撥打000-000-0000獲得幫助。",
+      "bindBankCard": "綁定其他銀行卡",
+      "goDeposit": "前往存款",
+      "goWithdrawal": "前往提款",
+      "goProfile": "前往個人資料",
+      "noMoreAddCard": "恭喜您完成銀行賬戶綁定，稍後提款時可以快速選擇您的提款銀行。"
+    }
+  },
+  "deposit": {
+    "address": "地址",
+    "email": "電子郵件",
+    "phone": "電話號碼",
+    "fpsId": "ID FPS",
+    "title": "存款",
+    "ppRemark": "提示: 系統稍後會在您輸入的金額後方隨機的小數，以便識別訂單",
+    "plsEnterDepositAmount": "請輸入存款金額",
+    "msgMinDeposit": "至少應充值{{amount}}以上",
+    "msgMaxDeposit": "存款金額大於本公司設置的最高限額",
+    "msgMaintenance": "存款系統維護中，請稍後再試...",
+    "paymentTunnel": "支付通道",
+    "msgEnterCard": "請輸入銀行卡號",
+    "bankCard": "銀行卡",
+    "msgPleaseEnter": "請輸入",
+    "dollor": "",
+    "depositAmount": "存款金額",
+    "chooseAmount": "請選擇金額",
+    "limitDeposit": "單筆限額",
+    "reminderTitle": "溫馨提醒：",
+    "orderNumber": "訂單編號",
+    "completeDeposit": "完成付款",
+    "confirmRedirect": "將跳出本站，前往支付平台",
+    "depositMethod": "支付方式",
+    "depositTunnel": "支付渠道",
+    "transferAccount": "轉帳賬戶",
+    "accName": "帳戶名字",
+    "cardNum": "銀行卡號",
+    "promotion": "優惠活動",
+    "msgPlsSelectPromotion": "請選擇優惠活動",
+    "senderName": "匯款賬戶名",
+    "uploadSuccess": "憑證上傳成功，請耐心等待確認。",
+    "cancelDeposit": "存款取消成功。",
+    "uploadReceipt": "上傳憑證",
+    "msgPlsSelectFile": "請選擇上傳文件",
+    "upload": "上傳",
+    "cancel": "取消付款",
+    "qrCode": "二維碼",
+    "qrDesc": "手機掃一掃 輕鬆支付",
+    "receiverBank": "收款銀行名稱",
+    "receiverAccount": "收款銀行賬戶",
+    "receiverNumber": "收款銀行賬號",
+    "msgDialog": "請點擊「確認」以繼續進行存款",
+    "msgPlsSelectPayment": "請選擇支付方式",
+    "msgPlsSelectMethod": "請選擇支付渠道",
+    "msgPlsEnterAccount": "請輸入銀行帳戶名稱",
+    "msgPlsUploadProof": "請上傳相關銀行憑證",
+    "msgNotMustUploadProof": "非強制上傳",
+    "msgInvalidFileSize": "文件太大，請選擇小於5mb的文件",
+    "msgInvalidFileType": "請僅上傳圖像文件。(.jpg/.jpeg/.png/.tiff)",
+    "msgFailedJoinPromotion": "您無法參加此活動。如有問題，請聯繫客服。",
+    "exchangeRate": "匯率",
+    "buyPrice": "買",
+    "sellPrice": "賣",
+    "expectedPayment": "預計支付",
+    "details": {
+      "bank": "銀行",
+      "account": "賬戶",
+      "accountNum": "賬號",
+      "failedOrder": "您的訂單已失效",
+      "failedOrderDesc": "請重新生成訂單後，再進行存款",
+      "msgDepositValidDate": "距離此訂單有效期",
+      "hour": "小時",
+      "minute": "分",
+      "second": "秒",
+      "cancelOrder": "取消訂單",
+      "orderVerify": "到賬核對",
+      "manualOpen": "手動開啟"
+    },
+    "totalAmount": "上分金額",
+    "plsEnterUSDTAmount": "請輸入USDT金額",
+    "playerNote": "玩家備註",
+    "plsEnterPlayerNote": "請輸入玩家備註",
+    "eWalletAccount": "電子貨幣名稱"
+  },
+  "forgotPassword": {
+    "title": "忘記密碼",
+    "plsEnterPhoneNumber": "請輸入綁定的手機號碼",
+    "invalidConfirmPass": "確認密碼錯誤",
+    "updateSuccess": "密碼重置成功"
+  },
+  "inbox": {
+    "title": "消息中心",
+    "manage": "編輯",
+    "markAsRead": "標記已讀",
+    "dateTime": "時間",
+    "type": "公告類型",
+    "inboxTitle": "信件標題",
+    "details": "詳情"
+  },
+  "wap": {
+    "login": {
+      "browse": "返回首頁",
+      "rememberMe": "記住用戶名",
+      "forgetPass": "忘記密碼?"
+    },
+    "register": {
+      "username": "請輸入用戶名 (6-16位英文或數字)",
+      "password": "請輸入密碼 (6-20位字母，數字或符號)",
+      "confirmPassword": "重複密碼",
+      "withdrawalPassword": "請輸入提款密碼 (6位數字)",
+      "confirmWithdrawalPassword": "重複提款密碼",
+      "promoteCode": "邀請碼（選填）",
+      "email": "請輸入郵箱地址"
+    },
+    "main": {
+      "homePage": "首頁",
+      "promo": "優惠",
+      "cs": "客服",
+      "my": "我的",
+      "account": {
+        "mainAccount": "中心錢包餘額：",
+        "totalFund": "玩家總資金:",
+        "accountReport": "帳戶明細",
+        "betReport": "投注記錄",
+        "transferReport": "轉換記錄",
+        "personalInfo": "個人資料",
+        "manageBank": "管理銀行卡",
+        "inbox": "消息通知",
+        "affiliate": "推廣賺錢",
+        "question": "常見問題",
+        "appDownload": "APP下載",
+        "setting": "設定",
+        "signout": "退出登錄",
+        "wallet": "錢包",
+        "deposit": "存款記錄",
+        "withdrawal": "提款記錄",
+        "transfer": "轉賬記錄"
+      },
+      "home": {
+        "gameTab": {
+          "sports": "體育",
+          "esports": "電競",
+          "live": "真人",
+          "lottery": "彩票",
+          "chess": "棋牌",
+          "electron": "電子",
+          "slot": "老虎",
+          "fish": "捕魚"
+        },
+        "steps": {
+          "desc": "如何開啟你的遊戲之旅",
+          "step1": "註冊用戶",
+          "step2": "在線存款",
+          "step3": "開始遊戲"
+        },
+        "profile": {
+          "announcement": "公告",
+          "welcomeBack": "歡迎您回來，",
+          "pleaseLogin": "親愛的用戶您好，請先登錄...",
+          "profile": "個人資料",
+          "mainAccount": "總資金",
+          "loginRegister": "登入/註冊"
+        }
+      },
+      "bottomNavigation": {
+        "homePage": "首頁",
+        "promo": "優惠",
+        "customerService": "客服",
+        "profile": "我的"
+      },
+      "menuDrawer": {
+        "deposit": "存款",
+        "withdrawal": "提款",
+        "transfer": "轉賬",
+        "transReport": "交易記錄",
+        "betReport": "帳戶明細",
+        "withdrawalReport": "提款記錄",
+        "depositReport": "存款記錄",
+        "bankCard": "管理銀行卡",
+        "inbox": "消息中心"
+      }
+    }
+  },
+  "profile": {
+    "birthdate": {
+      "title": "出生日期",
+      "toEdit": "如果需要编辑出生日期，请点击",
+      "here": "这里"
+    },
+    "setted": "已設置",
+    "setNow": "立即設置",
+    "edit": "修改",
+    "notSet": "未設置",
+    "notVerify": "未認證",
+    "nowVerify": "立即認證",
+    "title": "個人資料",
+    "basicInfo": "基本資料",
+    "otherInfo": "其他資料",
+    "securityInfo": "安全中心",
+    "accInfo": "賬戶資料",
+    "details": "查看",
+    "phoneVerification": "手機驗證",
+    "emailVerification": "郵箱驗證",
+    "msgPlsBindEmailAddress": "請綁定郵箱地址",
+    "changePassword": {
+      "msgConfirmPassFail": "確認密碼錯誤",
+      "editPassword": "修改密碼",
+      "title": "修改登錄密碼",
+      "msgEnterOriPass": "請輸入原始密碼",
+      "OriPass": "原始密碼"
+    },
+    "changePhone": {
+      "title": "修改手機",
+      "step1Title": "驗證原號碼",
+      "step2Title": "設定新號碼"
+    },
+    "nameVerify": {
+      "editHere": "这里",
+      "title": "真實姓名",
+      "msgEnterICNum": "請輸入您的身份證號碼",
+      "icNum": "身份證",
+      "msgInvalidICNum": "身份證號碼不正確",
+      "msgPlsEnterName": "請輸入您的真實姓名",
+      "msgPlsEnterICNum": "請輸入您的身份證號碼",
+      "toEdit": "如需修改真实姓名，请點擊",
+      "verifyName": "實名認證",
+      "tips": "提示： 真實姓名需要與提款卡姓名相同才可提款"
+    },
+    "password": {
+      "title": "登錄密碼",
+      "settledLoginPassword": "您的登錄密碼已經設定，請妥善保管。"
+    },
+    "bankCard": {
+      "title": "銀行卡",
+      "settledBankCard": "您的銀行卡已經設定，請妥善保管。",
+      "limitedWithdraw": "您可提款餘額為：",
+      "biggerThanZero": "提款金額 必須大於 0"
+    },
+    "phone": {
+      "title": "手機號碼",
+      "toEdit": "如需修改手機號碼，請點擊",
+      "here": "這裡",
+      "bindMobile": "綁定手機號碼",
+      "phoneDesc": "請放心，我們不會洩露任何用戶信息，以及發送騷擾信息。"
+    },
+    "email": {
+      "editEmail": "修改郵箱",
+      "verifyEmail": "驗證原郵箱",
+      "addEmail": "設定新郵箱",
+      "plsEnterEmail": "請輸入郵箱地址",
+      "bindEmail": "綁定郵箱地址",
+      "toEdit": "要修改郵箱地址，請點擊",
+      "here": "這裡"
+    },
+    "qq": {
+      "msgInvalidQQ": "QQ賬號格式不正確",
+      "plsEnterQQ": "請輸入QQ賬號",
+      "qqAccount": "QQ賬號"
+    },
+    "wechat": {
+      "msgInvalidWeChat": "微信賬號格式不正確",
+      "plsEnterWechat": "請輸入微信賬號",
+      "weChatAccount": "微信賬號"
+    },
+    "fb": {
+      "msgInvalidFB": "Facebook Messenger賬號格式不正確",
+      "plsEnterFB": "請輸入Facebook Messenger賬號",
+      "fbAccount": "Facebook Messenger賬號"
+    },
+    "telegram": {
+      "msgInvalidTelegram": "Telegram賬號格式不正確",
+      "plsEnterTelegram": "請輸入Telegram賬號",
+      "telegramAccount": "Telegram賬號"
+    },
+    "line": {
+      "msgInvalidLine": "Line賬號格式不正確",
+      "plsEnterLine": "請輸入Line賬號",
+      "lineAccount": "Line賬號"
+    },
+    "viber": {
+      "msgInvalidViber": "Viber賬號格式不正確",
+      "plsEnterViber": "請輸入Viber賬號",
+      "viberAccount": "Viber賬號"
+    },
+    "whatsapp": {
+      "msgInvalidWhatsapp": "Whatsapp賬號格式不正確",
+      "plsEnterWhatsapp": "請輸入Whatsapp賬號格式",
+      "whatsappAccount": "Whatsapp賬號"
+    },
+    "zalo": {
+      "msgInvalidZalo": "Zalo賬號格式不正確",
+      "plsEnterZalo": "請輸入Zalo賬號",
+      "zaloAccount": "Zalo賬號"
+    },
+    "resetResetWithdrawalPassword": {
+      "title": "修改提款密碼",
+      "editWithdrawalPassword": "修改提款密碼",
+      "bindMobile": "綁定手機號碼",
+      "verifiedOriPhone": "驗證手機號碼",
+      "verifiedEmail": "驗證郵箱地址",
+      "setNewWithdrawalPassword": "設定新提款密碼",
+      "resetSuccess": "提款密碼修改成功"
+    },
+    "changeWithdrawalPassword": {
+      "title": "提款密碼",
+      "subTitle": "提款密碼",
+      "oldPassword": "舊密碼",
+      "newPassword": "新密碼",
+      "confirmNewPassword": "確認新密碼",
+      "plsEnterOldPassword": "請輸入舊密碼"
+    },
+    "withdrawalPassword": {
+      "msgInvalidConPass": "兩次輸入的密碼不一致",
+      "title": "提款密碼",
+      "newPass": "提款密碼",
+      "msgEnterNewPass": "請輸入提款密碼",
+      "conPass": "確認提款密碼",
+      "msgEnterConPass": "請輸入確認提款密碼",
+      "setWithdrawalPassword": "設置提款密碼",
+      "settledWithdrawalPassword": "您的提款密碼已經設定，請妥善保管。"
+    }
+  },
+  "report": {
+    "title": "報表",
+    "total": "總計",
+    "transferDetails": "轉換記錄",
+    "withdrawalDetails": "提現記錄",
+    "depositDetails": "充值記錄",
+    "bettingDetails": "投注記錄",
+    "rebateDetails": "返水記錄",
+    "platform": "平台",
+    "platformgamename": "平台/遊戲名稱",
+    "date": "日期",
+    "gamename": "遊戲名稱",
+    "startDate": "開始時間",
+    "endDate": "結束時間",
+    "today": "今天",
+    "oneWeek": "1週",
+    "oneMonth": "1個月",
+    "all": "全部",
+    "status": "狀態",
+    "RequestDate": "申請時間",
+    "submitDate": "提交時間",
+    "transferOut": "轉出",
+    "transferIn": "轉入",
+    "OrderNumber": "訂單號",
+    "NewOrderNumber": "GMS訂單號",
+    "depositChannel": "付款方式",
+    "withdrawal": {
+      "bankCard": "银行卡",
+      "status1": "等待付款",
+      "status2": "審批中",
+      "status3": "已通過",
+      "status4": "已拒絕",
+      "status5": " 支付中",
+      "status6": "已支付"
+    },
+    "deposit": {
+      "status1": "等待付款",
+      "status2": "審批中",
+      "status3": "已通過",
+      "status4": "已拒絕"
+    },
+    "rebate": {
+      "sn": "編號",
+      "cycleDate": "週期日",
+      "validBet": "有效金額",
+      "amount": "返水金額"
+    },
+    "transfer": {
+      "title": "轉賬記錄",
+      "table": {
+        "from": "從",
+        "to": "至"
+      }
+    },
+    "joinedPromo": {
+      "title": "活動紀錄",
+      "promoName": "活動名稱"
+    },
+    "balanceChanges": {
+      "title": "賬變記錄",
+      "type": "交易類型",
+      "amount": "交易金額"
+    },
+    "dateTime": "時間",
+    "betDateTime": "投注時間",
+    "betid": "單號",
+    "amount": "金額",
+    "betAmount": "投注金額",
+    "totalBet": "總投注",
+    "validBet": "有效投注",
+    "betContent": "投注內容",
+    "turnover": "流水",
+    "winloss": "輸贏",
+    "ratio": "賠率",
+    "totalBetAmount": "總投注",
+    "totalWinLose": "縂輸贏",
+    "totalValidBet": "總有效投注",
+    "agentRebateReport": "全民代理反水",
+    "agentRebate": {
+      "settlementDate": "结算日期",
+      "maxActivePlayer": "最大活躍人数",
+      "totalRebates": "反水金额",
+      "intervalDays": "區間需小於{maxdays}天"
+    }
+  },
+  "share": {
+    "bottomNote": {
+      "pleaseContact": "如有任何問題，請聯繫",
+      "liveChat": "線上服務"
+    },
+    "messageDialog": {
+      "info": "提示"
+    }
+  },
+  "slot": {
+    "hotGame": "熱門遊戲",
+    "allGame": "全部遊戲",
+    "newGame": "最新遊戲",
+    "bookmarkGame": "收藏遊戲",
+    "historyGame": "歷史遊戲",
+    "recommendGame": "推薦遊戲",
+    "fullscreen": "全屏",
+    "search": "搜索關鍵字",
+    "all": "全部",
+    "new": "最新",
+    "hot": "熱門"
+  },
+  "transfer": {
+    "autoTransfer": "自動轉帳：開啟遊戲時，將所有餘額自動轉入遊戲",
+    "on": "開",
+    "off": "關",
+    "transferWallet": "轉賬錢包",
+    "quickTransfer": "快速轉賬",
+    "invalidAmount": "金額有誤",
+    "insufficient": "您的餘額不足",
+    "transferSuccess": "轉賬成功",
+    "msgUnderMaintenance": "維修中請銷後再試",
+    "refresh": "刷新",
+    "title": "轉賬",
+    "totalFund": "玩家總資金",
+    "mainAccount": "中心錢包",
+    "oneKeyReceive": "一鍵回收",
+    "oneKeyTransferIn": "一鍵轉入",
+    "oneKeyTransferOut": "一鍵轉出",
+    "oneKeyTransferAll": "一键傳輸",
+    "maintenance": "維護中",
+    "transferFrom": "請選擇轉出錢包",
+    "transferFromWallet": "轉出錢包",
+    "pleaseSelect": "請選擇",
+    "transferTo": "請選擇轉入錢包",
+    "transferToWallet": "轉入錢包",
+    "msgEnterAmount": "請輸入轉帳金額",
+    "maxAmount": "最大金額",
+    "transfer": "轉賬",
+    "noticeTitle": "溫馨提示",
+    "msgFailedTransfer": "轉賬失敗",
+    "msgTransferOutFromGP": "從所有子錢包轉移到主錢包"
+  },
+  "withdrawal": {
+    "notReachMin": "提款金額未達到最低金額",
+    "reachedMax": "提款金額達到最大金額",
+    "msgMustHundred": "金額必須以百位數字結尾",
+    "msgInvalidAmt": "提款金額 必須大於 0",
+    "msgCanWithdrawal": "您可提款餘額為:",
+    "msgContactCSCardChange": "如需修改請聯繫客服",
+    "turnover": "流水需求:",
+    "msgEnterWithdrawalPass": "請輸入提款密碼",
+    "msgInsufficient": "中心錢包餘額不足",
+    "msgSuccess": "您的提款請求已成功提交, 請耐心等待確認",
+    "title": "提款",
+    "limitDeposit": "單筆限額",
+    "canWithdrawal": "可提資金",
+    "checkDetails": "查看詳情",
+    "manageBank": "管理銀行卡",
+    "bankCard": "銀行卡",
+    "msgEnterBank": "請選擇銀行卡",
+    "tail": "尾號",
+    "enterAmount": "請輸入提款金額",
+    "msgWithdrawalAmount": "單筆限額 100-450,000",
+    "notice": "此銀行卡的開戶名必須與您帳號所填寫真實姓名一致，否則提款可能失敗",
+    "receiverAcc": "收款賬號",
+    "receiverName": "收款人姓名",
+    "fee": "手續費",
+    "receiverAmount": "到賬金額",
+    "usdtAmount": "金額 USDT",
+    "playerNote": "玩家備註",
+    "plsEnterPlayerNote": "請輸入玩家備註"
+  },
+  "promotion": {
+    "emptyLine1": "目前尚未有活動",
+    "emptyLine2": "請敬請期待",
+    "moreInfo": "更多資訊",
+    "startDate": "開始時間：",
+    "endDate": "結束時間：",
+    "title": "優惠活動",
+    "promoType": "優惠種類",
+    "promoTarget": "優惠對象",
+    "promoDetail": "優惠條件",
+    "promoDate": "優惠時間",
+    "joinPromo": "領取優惠",
+    "joinSuccess": "參加優惠活動成功",
+    "joinFail": "您無法加入，請稍後再試",
+    "promoJoint": "參加優惠已參加！",
+    "details": "詳情"
+  },
+  "web": {
+    "home": {
+      "Section1Chess": "棋牌遊戲",
+      "Section1Slot": "老虎機",
+      "Section1Lottery": "彩票遊戲",
+      "Section1Fishing": "捕魚游戲",
+      "Section1Sport": "體育電競",
+      "Section1Esport": "電競",
+      "Section1Electron": "電子遊戲",
+      "Section1Live": "真人遊戲",
+      "services": {
+        "service1": {
+          "title": "平均存款時間",
+          "value": "30秒"
+        },
+        "service2": {
+          "title": "平均取款時間",
+          "value": "50秒"
+        },
+        "service3": {
+          "title": "合作支付平台",
+          "value": "60家"
+        },
+        "service4": {
+          "title": "合作遊戲平台",
+          "value": "80家"
+        }
+      },
+      "features": {
+        "feature1": {
+          "title": "更專業",
+          "description": "每天為您提供近千場精彩體育、電競賽事，玩法多元極致享受，更有真人、棋牌、彩票、電子遊戲等多種娛樂方式隨心選擇。"
+        },
+        "feature2": {
+          "title": "更安全",
+          "description": "獨家開發，採用128位加密技術和嚴格的安全管理體系，客戶資金得到最完善的保障，讓您全情盡享娛樂、賽事投注，無後顧之憂！"
+        },
+        "feature3": {
+          "title": "更便捷",
+          "description": "自主研發的 Web、H5，更有iOS、Android原生App，讓您隨時隨地，娛樂投注隨心所欲！7×24小時在線客服提供最貼心、最優質的服務。"
+        },
+        "feature4": {
+          "title": "更快速",
+          "description": "最新技術自主研發的財務處理系統，真正做到極速存、取、轉。獨家網路優化技術，為您提供一流的遊戲體驗，最大優化網路延遲。"
+        }
+      }
+    },
+    "liveGame": {
+      "wmDesc": "以高規格打造的WM真人配備最先進的設備以及富麗堂皇的裝潢，為玩家打造絕佳真人視訊遊戲體驗。",
+      "saDesc": "SA真人視訊為亞博集團官方直營，最美荷官在線互動，帶您玩轉百家樂、骰寶、輪盤、炸金花等多款真人視訊遊戲，國際標準、公平公正，極致享受。",
+      "bgDesc": "超高清視頻、完美主播音質等等，讓可愛的性感女主播與玩家親密互動、提供讓人著迷的遊戲體驗！",
+      "abDesc": "ALLBET主打的24小時運營的直播在線視頻類游戲，讓玩家擁有身臨其境的感覺， 多款熱門遊戲讓玩家隨時隨地享受遊戲的快感。",
+      "vgDesc": "先進的產品和平台可提供當今市場上最真實遊戲體驗。甚至無需離開家，體驗真正賭場所有的刺激感。"
+    },
+    "lotteryGame": {
+      "vrDesc": "VR彩票為您提供最便捷豐富的彩票新玩法，精彩絕倫的交互體驗，開啟彩票新紀元。 ",
+      "bgDesc": "BG彩票打造著高品質遊戲體驗、不斷地求新求變，秉持最好的服務，超百種彩票玩法任您贏！",
+      "kmDesc": "專注於彩票遊戲行業多年，擁有經典彩種、玩法。還有極易操作的遊戲界面，更是在您遊戲過程中增光添彩！"
+    },
+    "chessGame": {
+      "kyDesc": "搶莊牛牛龍虎鬥，多款棋牌任君選！棋牌彰顯胸懷，競技娛樂燒腦，好友相約競技，遊戲改變生活"
+    },
+    "slotGame": {
+      "btnStart": "馬上開始",
+      "btnTrial": "免費試玩",
+      "btnBookmark": "收藏",
+      "keyword": "關鍵字",
+      "search": "搜索",
+      "recommendedGame": "推薦遊戲",
+      "more": "更多",
+      "famousGame": "大家都在玩",
+      "rtpRank": "返獎率排名"
+    },
+    "header": {
+      "announcement": "公告",
+      "promotion": "最近優惠",
+      "mobver": "手機端",
+      "plsClick": "請按",
+      "bookmark": "收藏網站",
+      "addBookmark": "加入收藏",
+      "transfer": "轉賬",
+      "deposit": "存款",
+      "mainAccount": "總資金",
+      "dollor": "",
+      "logout": "登出",
+      "welcomBack": "歡迎您回來，"
+    },
+    "rightNavBar": {
+      "wallet": "資金中心",
+      "codeTitle": "APP下載",
+      "cs": {
+        "csDesc": "在線客服",
+        "contact": "聯繫電話"
+      }
+    },
+    "marquee": {
+      "latestNews": "最新公告："
+    },
+    "footer": {
+      "footerDescTitle": "合作夥伴",
+      "footerDescText": "無論你想玩些什麼，{brand} 的合作夥伴都會讓你的遊戲體驗更加美好",
+      "paymentTitle": "支付·牌照",
+      "cautionText": "未滿18歲的人士進行博彩屬非法行為，{brand}會在此方面絕對嚴格執行。我們會對客戶進行年齡驗證，並可能要求其上交補充檔",
+      "appDownload": "APP下載",
+      "appDownloadLine2": "隨時隨地 最佳體驗",
+      "wapQRCodeDesc": "手機免下載訪問",
+      "appQRCodeDesc": "APP掃碼下載",
+      "affiliateCampaign": "代理加盟共創輝煌",
+      "affiliateCampaignLine2": "100%加獎佣金計劃",
+      "customerServiceHotline": "國內24小時客服熱線",
+      "contactUs": "聯繫我們",
+      "contactNumber": "服務電話:400-120-8118",
+      "contactEmail": "聯繫郵箱:cs@{brand}.com",
+      "copyright": "本網站屬於（PAGCOR）Philippine Amusement and Gaming Corporation授權和監管",
+      "copyrightLine2": "{brand} Copyright© 2020 {brand} Casino Co.Group All Rights Reserved"
+    },
+    "login": {
+      "login": "登錄",
+      "loginTitle": "登錄您的賬戶",
+      "loginTitleLine2": "亞洲最佳博彩網站",
+      "newRegister": "新用戶註冊",
+      "rememberMe": "記住用戶名",
+      "forgetPass": "忘記密碼?",
+      "cs": "登錄如有問題，請及時",
+      "contactus": "聯繫我們",
+      "btn": "立即登錄",
+      "footerDesc": "本網站採用Global Trust 最先進的128/256 bit SSL服務",
+      "controlTitle": "責任博彩",
+      "controlDesc": "您已設定自我控制，賬戶將在",
+      "controlText": "後解鎖",
+      "errorMsg": {
+        "emptyUsername": "用戶名不能為空",
+        "emptyPassword": "密碼不能為空"
+      }
+    },
+    "register": {
+      "registerTitle": "註冊您的賬戶",
+      "registerTitleLine2": "亞洲最佳博彩網站",
+      "username": "請輸入用戶名 (6-16位英文或數字)",
+      "password": "請輸入密碼 (6-20位大小寫英文，數字或特殊符號)",
+      "confirmPassword": "重複密碼",
+      "withdrawalPassword": "請輸入提款密碼 (6位數字)",
+      "confirmWithdrawalPassword": "重複提款密碼",
+      "promoteCode": "邀請碼（選填）",
+      "contract": "我確認我已年滿18歲，並已閱讀和接受本網站的策略丶隱私聲明，條款及條件。",
+      "contractWithAge": "我確認我已年滿{age}歲，並已閱讀和接受本網站的策略丶隱私聲明，條款及條件。",
+      "btn": "立即註冊",
+      "activation": "SMS短信認證",
+      "email": "請輸入郵箱地址",
+      "errorCustomDesc": "請先點擊\"發送驗證碼\"，再填寫123456，按\"提交\"即可。"
+    },
+    "resetPassword": {
+      "title": "重置密碼",
+      "oldPassword": "舊密碼",
+      "newPassword": "新密碼",
+      "confirmNewPassword": "確認新密碼",
+      "resetSuccess": "密碼重置成功"
+    },
+    "account": {
+      "fund": "資金管理",
+      "personal": "個人賬戶",
+      "deposit": "存款",
+      "withdrawal": "提款",
+      "transfer": "轉賬",
+      "report": "報表",
+      "profile": "個人資料",
+      "inbox": "消息中心",
+      "affiliate": "推廣賺錢",
+      "header": {
+        "lastLogin": "上次登陸時間",
+        "total": "玩家總資金",
+        "mainWallet": "中心錢包",
+        "allGameWallet": "轉帳錢包"
+      },
+      "msgCenterAcc": {
+        "inbox": "收件箱",
+        "noMsg": "暫無信息",
+        "errorMsg": "尚未選取任何消息",
+        "tickAll": "全選",
+        "delete": "刪除",
+        "markAsRead": "標記為已讀"
+      }
+    },
+    "download": {
+      "titleDesc": "觸手可及的信息，從指尖到腦海，存取轉安全便捷。真人娛樂，體育投注，電子遊藝等盡在一手掌握。{brand}力求給每一位用戶呈現別樣、繽紛的極致體驗。",
+      "supportPlatform": "(支持Android/iOS)",
+      "pcDownload": "手機免下載訪問",
+      "mobileDownload": "APP掃碼下載"
+    },
+    "maintenance": {
+      "title": "抱歉，系統維護中",
+      "maintenance": "維護中",
+      "maintenancePeriod": "維護時間：",
+      "desc": "為了您更好的體驗遊戲，我們一直在努力",
+      "descText": "如有疑問，請及時聯繫在線客服。",
+      "btn": "聯繫我們"
+    }
+  },
+  "PrimePay": "一等付",
+  "MaticPay": "MaticPay",
+  "ZeroNineNinePay": "099Pay",
+  "LeePay": "利付錢包",
+  "ApplePay": "蘋果支付",
+  "UmPay": "PlayPay",
+  "Manual": "手動存款",
+  "Crypto": "虛擬幣",
+  "BankTransfer": "銀行轉賬",
+  "ThirdParty": "第三方",
+  "CustomBank": "自定銀行",
+  "VR": {
+    "lottery": "VR彩票",
+    "desc": "VR獎源一直以“公正、安全、快速、精準”處於行業領先地位，擁有人工智能的全方位系統主流彩種應有盡有，主要分為「VR視訊彩」、「VR品牌彩票」等。亦在積極開發「VR電子」系列遊戲，立志給予客戶更多樣化的選擇。 VR將持續創造進步，為大眾推出更多的新彩種，創造一個全方位的娛樂環境。 "
+  },
+  "KY": {
+    "chess": "開元棋牌",
+    "desc": "搶莊牛牛龍虎鬥，多款棋牌任君選！棋牌彰顯胸懷，競技娛樂燒腦，好友相約競技，遊戲改變生活",
+    "BankerNiuNiu": "搶莊牛牛",
+    "GoldenFlower": "炸金花",
+    "The21Point": "21點",
+    "SanGong": "三公",
+    "fish": "KY捕鱼"
+  },
+  "sports": {
+    "bunnydesc": "{brand} 提供您創新且多樣化的玩法和高賠率的賽事轉播，與隨時隨地使用各式設備，讓您能輕鬆、快速、且安全下注，再加上豐富的體育賽事投注包括足球、籃球、棒球、網球、美式足球、電競等，以滿足各項的體育競技熱愛者的需求！",
+    "desc": "PG 提供您創新且多樣化的玩法和高賠率的賽事轉播，與隨時隨地使用各式設備，讓您能輕鬆、快速、且安全下注，再加上豐富的體育賽事投注包括足球、籃球、棒球、網球、美式足球、電競等，以滿足各項的體育競技熱愛者的需求！"
+  },
+  "esports": {
+    "bunnydesc": "IM電子競技有頂尖的技術支持，還擁有令人驚嘆的視覺界面及高效的用戶體驗。即刻透過【{brand}】，體驗輕鬆投注電子競技的樂趣吧!",
+    "desc": "IM電子競技有頂尖的技術支持，還擁有令人驚嘆的視覺界面及高效的用戶體驗。即刻透過【PG】，體驗輕鬆投注電子競技的樂趣吧!"
+  },
+  "services": {
+    "depositTitle": "極速存取轉款",
+    "deposit": "最新技術自主研發的財務處理系統真正做到極速存、取、轉獨家網絡優化技術，為您提供一流的遊戲體驗，最大優化網絡延遲。",
+    "securityTitle": "加密安全管理",
+    "security": "獨家開發，採用128位加密技術和嚴格的安全管理體系，客戶資金得到最完善的保障，讓您全情盡享娛樂、賽事投注、無後顧之憂！",
+    "oddsTitle": "海量賽事種類",
+    "odds": "每天為您提供近千場精彩體育賽事，更有真人、彩票、電子遊戲等多種娛樂方式選擇，讓您擁有完美遊戲體驗。",
+    "platformTitle": "三端任您選擇",
+    "platform": "引領市場的卓越技術，自主研發了全套終端應用，讓您暢享Web、H5，更有iOS、Android原生APP，讓您隨時隨地，娛樂投注! 7x24小時在線客服提供最貼心，最優質的服務"
+  },
+  "AG": {
+    "name": "AG真人",
+    "live": "AG真人"
+  },
+  "BG": {
+    "name": "BG真人",
+    "live": "BG真人",
+    "fish": "BG捕鱼"
+  },
+  "SG": {
+    "name": "Sexy真人",
+    "live": "Sexy真人"
+  },
+  "AWC_SG": {
+    "live": "Sexy真人"
+  },
+  "SW": {
+    "live": "SW真人",
+    "slots": "SW老虎機",
+    "electron": "SW電子"
+  },
+  "PINNACLE": {
+    "sports": "Pinnacle體育"
+  },
+  "SWTF": {
+    "live": "SW真人",
+    "slots": "SW老虎机",
+    "electron": "SW电子",
+    "fish": "SW捕鱼"
+  },
+  "SBO": {
+    "sports": "SBO體育"
+  },
+  "SBOTF": {
+    "sports": "SBO體育"
+  },
+  "IMES": {
+    "sports": "IM電競",
+    "esports": "IM電競"
+  },
+  "IM_ESP": {
+    "sports": "IM電競",
+    "esports": "IM電競"
+  },
+  "SABA": {
+    "sports": "沙巴體育"
+  },
+  "SABATF": {
+    "sports": "沙巴體育"
+  },
+  "HABA": {
+    "slots": "HABANERO老虎機",
+    "electron": "HABANERO電子",
+    "fish": "HABANERO捕魚"
+  },
+  "HABATF": {
+    "slots": "HABANERO老虎機",
+    "electron": "HABANERO電子",
+    "fish": "HABANERO捕魚"
+  },
+  "JDB": {
+    "slots": "JDB老虎機",
+    "fish": "JDB捕魚",
+    "desc": "線上網奪寶不無聊。 這裡擁有眾多遊戲以及老虎機，想要體驗更多的玩法，那你來這裡準沒錯!"
+  },
+  "JDBTF": {
+    "slots": "JDBTF老虎機",
+    "fish": "JDBTF捕魚",
+    "electron": "JDBTF電子",
+    "desc": "線上網奪寶不無聊。 這裡擁有眾多遊戲以及老虎機，想要體驗更多的玩法，那你來這裡準沒錯!"
+  },
+  "JILI": {
+    "slots": "JILI老虎機",
+    "fish": "JILI捕魚"
+  },
+  "JILITF": {
+    "slots": "JILITF老虎機",
+    "fish": "JILITF捕魚",
+    "electron": "JILITF電子"
+  },
+  "JOKER": {
+    "slots": "JOKER老虎機",
+    "fish": "JOKER捕魚",
+    "electron": "JOKER電子"
+  },
+  "PPTF": {
+    "slots": "PP老虎機",
+    "electron": "PP電子",
+    "live": "PP真人",
+    "fish": "PP捕魚",
+    "sports": "PP體育",
+    "customsports": "PP虛擬體育"
+  },
+  "PP": {
+    "slots": "PP老虎機",
+    "electron": "PP電子",
+    "live": "PP真人",
+    "fish": "PP捕魚",
+    "sports": "PP體育"
+  },
+  "EVO": {
+    "live": "EVO真人",
+    "slots": "EVO老虎機"
+  },
+  "EVOTF": {
+    "live": "EVO真人",
+    "slots": "EVO老虎機"
+  },
+  "BTI": {
+    "sports": "BTI體育"
+  },
+  "PHSB": {
+    "sports": "PHSB體育"
+  },
+  "AB": {
+    "live": "Allbet真人"
+  },
+  "RT": {
+    "slots": "RedTiger老虎機",
+    "electron": "RedTiger電子"
+  },
+  "RTTF": {
+    "slots": "RedTiger老虎機",
+    "electron": "RedTiger電子"
+  },
+  "NT": {
+    "slots": "Netent老虎機",
+    "electron": "Netent電子"
+  },
+  "NTTF": {
+    "slots": "Netent老虎機",
+    "electron": "Netent電子"
+  },
+  "WGFM": {
+    "sports": "WG體育"
+  },
+  "WGVIA": {
+    "sports": "WG賽馬"
+  },
+  "WM": {
+    "live": "WM真人"
+  },
+  "WMTF": {
+    "live": "WM真人"
+  },
+  "DG": {
+    "live": "DG真人"
+  },
+  "DGTF": {
+    "live": "DG真人"
+  },
+  "IDNLIVE": {
+    "live": "IDN真人"
+  },
+  "TCG_SEA": {
+    "lottery": "TCG SEA彩票"
+  },
+  "TCG_LOTTO": {
+    "lottery": "TCG彩票"
+  },
+  "TCG_LOTTO_VN": {
+    "lottery": "TCG VN彩票"
+  },
+  "365TF": {
+    "chess": "365棋牌"
+  },
+  "LY": {
+    "chess": "樂遊棋牌",
+    "fish": "樂遊捕魚"
+  },
+  "BC": {
+    "sports": "BC體育",
+    "customsports": "BC體育"
+  },
+  "AVIA": {
+    "sports": "AVIA體育",
+    "esports": "AVIA電競"
+  },
+  "AWC_RCB": {
+    "sports": "RCB988體育"
+  },
+  "AWC_VENUS": {
+    "live": "VENUS真人"
+  },
+  "AWC_COCKFIGHT": {
+    "sports": "SV388鬥鷄",
+    "cockfight": "SV388"
+  },
+  "AWC_SPADE": {
+    "electron": "SPADE電子",
+    "fish": "SPADE捕魚",
+    "slots": "SPADE老虎機"
+  },
+  "OBET": {
+    "sports": "OBET體育"
+  },
+  "YEEBET": {
+    "live": "YEEBET"
+  },
+  "9WCRICKET": {
+    "sports": "9WCRICKET"
+  },
+  "AWC_FACAI": {
+    "electron": "發財電子",
+    "slots": "發財老虎機",
+    "fish": "發財捕魚"
+  },
+  "FACHAI": {
+    "electron": "發財電子",
+    "slots": "發財老虎機",
+    "fish": "發財捕魚"
+  },
+  "AWC_PGS": {
+    "electron": "PGS電子",
+    "slots": "PGS老虎機"
+  },
+  "AWC_AWS": {
+    "electron": "AWS電子",
+    "slots": "AWS老虎機"
+  },
+  "AWC_FS": {
+    "slots": "FS老虎機"
+  },
+  "AWC_YL": {
+    "electron": "YL電子",
+    "fish": "YL捕魚"
+  },
+  "AWC_KM": {
+    "electron": "KM電子"
+  },
+  "AWC_LUDO": {
+    "electron": "LUDO電子"
+  },
+  "AWC_AELOTTO": {
+    "lottery": "AE彩票"
+  },
+  "TF": {
+    "sports": "TF體育",
+    "esports": "TF電競"
+  },
+  "TFTF": {
+    "sports": "TF體育",
+    "esports": "TF電競"
+  },
+  "SM01": {
+    "sports": "SM01",
+    "cockfight": "SM01"
+  },
+  "BTG": {
+    "slots": "BTG老虎機"
+  },
+  "NLC": {
+    "slots": "NLC老虎機"
+  },
+  "ENDOR": {
+    "slots": "Endorphina老虎機"
+  },
+  "idr": {
+    "withdrawalNumber": "銀行卡號碼",
+    "msgEnterWithdrawalNumber": "請輸入銀行卡號碼"
+  },
+  "hk28": {
+    "withdrawalNumber": "銀行卡號碼/FPS(轉數快)號碼",
+    "msgEnterWithdrawalNumber": "請輸入銀行卡號碼/FPS(轉數快)號碼",
+    "card": {
+      "addCard": {
+        "BankName": "銀行名稱/FPS(轉數快)",
+        "msgEnterBankName": "請輸入銀行名稱/FPS(轉數快)",
+        "BankAccountName": "銀行帳戶名稱/FPS(轉數快)名稱",
+        "msgEnterBankAccountName": "請輸入銀行帳戶名稱/FPS(轉數快)名稱"
+      }
+    }
+  },
+  "mess888": {
+    "panel": {
+      "im": "即時通訊",
+      "cs": "客服",
+      "download": "APP下載"
+    },
+    "wap": {
+      "sports": "體育電競"
+    },
+    "web": {
+      "promotion": "優惠活動"
+    }
+  },
+  "bet28": {
+    "phoneNumber": "手機號碼/轉數快ID",
+    "msgEnterPhone": "請輸入您的手機號碼/轉數快ID",
+    "BankAccountName": "請輸入付款人名稱（英文簡稱）",
+    "msgEnterBankAccountName": "Chan Txx Mxx"
+  },
+  "sowin": {
+    "card": {
+      "addCard": {
+        "BankAccountName": "銀行帳戶名稱 (英文)"
+      }
+    }
+  },
+  "download": {
+    "supported": "支持設備",
+    "openGuide": "查看安裝指南",
+    "downloadMethod": "下載方式",
+    "scanDownload": "掃碼 & 下載",
+    "useQRScan": "使用掃碼軟體進行掃描",
+    "title": "下載",
+    "iphone": {
+      "title": "iPhone 安裝指南",
+      "point1": "1. 按下載方式，安裝→點擊啟動，會出現提示“尚未達到企業級開發人員”。",
+      "point2": "2. 對應設置>通用>設備管理>找到彈窗名稱的項目後，點擊“信任”即可。"
+    },
+    "android": {
+      "title": "安卓安裝指南",
+      "point1": "1. 按下載方式，下載完成後點擊安裝。",
+      "point2": "2. 前往設置>安全>未知來源>允許確定後，再重新打開系統。"
+    }
+  },
+  "piso": {
+    "withdrawalNumber": "銀行卡號碼/加密貨幣地址",
+    "msgEnterWithdrawalNumber": "請輸入銀行卡號碼/加密貨幣地址",
+    "profile": {
+      "fullName": "全名",
+      "enterFullName": "請輸入全名",
+      "documentNumber": "文件號碼",
+      "enterDocumentNumber": "請輸入文件號碼"
+    }
+  },
+  "usertype": {
+    "agent": "代理",
+    "player": "玩家"
+  },
+  "vip": {
+    "birthBenefit": "生日禮金",
+    "cardGameRebate": "棋牌遊戲",
+    "level": "促銷條件",
+    "levelKeepAccumulateBetAmount": "保級當月所需投注量",
+    "levelKeepAccumulateDeposit": "保級當月所需存款量",
+    "levelUpAccumulateBetAmount": "晉級當日所需投注量",
+    "levelUpAccumulateDeposit": "晉級當日所需存款量",
+    "liveDealerRebate": "真人娛樂",
+    "lotteryRebate": "彩票遊戲",
+    "promotionBenefit": "優惠活動利益",
+    "quarterlyBenefit": "季度利益",
+    "slotRebate": "電子遊戲",
+    "sportsRebate": "體育",
+    "virtualSportsRebate": "虛擬體育",
+    "vipBenefit": "VIP返水",
+    "bunny": {
+      "level1": "青銅",
+      "level2": "白銀",
+      "level3": "黃金",
+      "level4": "紅寶石",
+      "level5": "白金",
+      "level6": "鑽石"
+    },
+    "bonus": "獎金",
+    "levelUp": "需滿足條件",
+    "levelUpBonus": "升級獎勵",
+    "totalDeposit": "累積存款金額",
+    "totalVaildBet": "累積投注金額"
+  },
+  "custom": {
+    "addcard": {
+      "name": "轉數快帳號名稱",
+      "msgPlsEnterName": "請填寫轉數快帳號名稱",
+      "phoneNumber": "轉數快號碼",
+      "msgEnterPhone": "請填寫轉數快號碼或電郵地址"
+    }
+  },
+  "depositNotification": {
+    "title": "匯款指引",
+    "content": "請各位注意，關於匯款帳號，請根據平台的戶口進行匯款，如匯款至舊戶口，上分可能有時間延遲，亦有可能檢查不到，我司不會因這個問題而負上責任，敬請垂注！"
+  },
+  "depositNotificationGMO": {
+    "title": "匯款指引",
+    "content": "客戶存取款須知\n為防止洗黑錢\n一般客戶每日出款次數為三次\n客戶取款必須跟綁定充值帳戶相同\n有關於取款問題可向客服查詢"
+  },
+  "mgm": {
+    "msgPlsEnterAccount": "請输入銀行帳戶/姓名",
+    "accountDepositTips": "請填寫有效匯款銀行名稱，方便上分",
+    "nameDepositTips": "請填寫有效匯款戶口/姓名，方便上分"
+  },
+  "t3": {
+    "profile": "用戶資訊",
+    "transfer": "轉帳",
+    "deposit": "存款",
+    "withdraw": "提款"
+  },
+  "verified": {
+    "yes": "已驗證",
+    "no": "未驗證",
+    "rejected": "已拒絕",
+    "verifying": "驗證中",
+    "waiting": "等待客服驗證",
+    "goVerify": "驗證真實姓名"
+  },
+  "disabledAddCard": {
+    "title": "在您的帳戶中未找到任何卡",
+    "description": "請聯繫客服添加卡，以便訪問提款頁面。"
+  },
+  "hint": {
+    "_099": "在 (00:00-23:59) 可用"
+  },
+  "idr1": {
+    "pleaseEnterAccountName": "請输入銀行名稱",
+    "msgPlsSelectAccount": "請選擇帳號",
+    "eWalletAccount": "電子貨幣名稱",
+    "phone": "電話號碼"
+  },
+  "king8": {
+    "EWallet": "電子貨幣",
+    "FPS": "轉數快",
+    "ThirdParty": "便利店現金"
+  },
+  "pointless": {
+    "download": "APP鏈接載點",
+    "copy": "已復制",
+    "link": "鏈接"
+  },
+  "promoRoulette": {
+    "main": "優惠主頁",
+    "content": "優惠内容",
+    "terms": "優惠條規",
+    "dialogDARUnavailableTitle": "充值抽獎已結束",
+    "dialogUnavailableTitle1": "每日限玩一次",
+    "dialogUnavailableTitle2": "明天再來唷",
+    "dialogUnavailableTitle3": "點我看更多好康優惠",
+    "dialogRewardTitle1": "恭喜您贏得",
+    "betterluck": "下次好運",
+    "dialogErrorTitle1": "無法進行抽獎",
+    "dialogErrorTitle2": "請稍後再試",
+    "dialogIndexErrorTitle1": "請玩家重新整理",
+    "remainingSpin": "您還有 {rouletteCount} 次機會 !",
+    "history": "中獎記錄",
+    "winningID": "中獎 ID",
+    "dateTime": "時間",
+    "winnings": "中獎内容",
+    "outOfCount": "您的次數已經使用完畢！"
+  },
+  "idr1HomePage": {
+    "section1": {
+      "live": "真人娛樂",
+      "slot": "電子遊藝",
+      "lottery": "彩票遊戲",
+      "fishing": "捕魚遊戲"
+    },
+    "section2": {
+      "1000game": "1000+ 遊戲",
+      "247support": "24/7 客服",
+      "fastpay": "快速支付",
+      "secure": "100% 安全",
+      "vip": "VIP福利",
+      "promo": "真棒優惠"
+    },
+    "section3": {
+      "title": "移动娱乐场",
+      "description": "老虎机游戏、真人娱乐场、体育博彩只需一部手机即可轻松玩"
+    },
+    "section4": {
+      "exclusive": "獨家",
+      "vip": "VIP福利",
+      "description": "即刻加入，享受專為您打造的尊貴VIP特權"
+    }
+  },
+  "brand": {
+    "KING8": {
+      "title": "Game of KING - 專業娛樂平台",
+      "description": "專業娛樂平台",
+      "footer": "Game of KING"
+    },
+    "WGHK": {
+      "title": "MGM Sports - 專業娛樂平台",
+      "description": "專業娛樂平台",
+      "footer": "MGM Sports"
+    }
+  },
+  "t10": {
+    "home": {
+      "section2": {
+        "title": "超級大贏"
+      },
+      "section3": {
+        "title": "亞洲最佳賭場",
+        "content": {
+          "first": "更專業",
+          "second": "更可靠",
+          "third": "更安全",
+          "forth": "更快"
+        }
+      },
+      "section4": {
+        "title": "驕傲的合作夥伴"
+      }
+    }
+  },
+  "WGHK": {
+    "loginRegister": "立即登入/註冊"
+  },
+  "T2": {
+    "marquee": "最新通告"
+  },
+  "customGPname": {
+    "sport": "體育"
+  },
+  "fees": {
+    "withdraw": "提款費",
+    "deposit": "手續費"
+  },
+  "extended": {
+    "name": "帳戶名字",
+    "phone": "電話號碼",
+    "eMoneyName": "電子貨幣名稱",
+    "bankAccount": "銀行卡號",
+    "address": "地址",
+    "fpsId": "ID FPS",
+    "email": "電子郵件"
+  },
+  "TIGER": {
+    "login": "登入",
+    "cs": "聯繫我們",
+    "my": "我的賬號",
+    "promo": "優惠活動",
+    "chess": "撲克",
+    "sport": "體育競技",
+    "fish": "捕魚遊戲",
+    "lottery": "彩球"
+  },
+  "GKX": {
+    "chess": "GKX棋牌"
+  },
+  "CP": {
+    "lottery": "CP 彩票"
+  },
+  "T13": {
+    "footer": {
+      "copyright": "{brand} Copyright© 2020 {brand} Casino Co.Group. ",
+      "rights": "All Rights Reserved."
+    },
+    "socials": {
+      "fb_title": "臉書",
+      "viber_title": "Viber",
+      "line_title": "LINE",
+      "telegram_title": "電報"
+    },
+    "misc": {
+      "msgEnterCode": "請輸入驗證碼",
+      "addBankCard": "添加銀行卡",
+      "msgAddCardDesc": "在此處添加一張銀行卡以提款，最多 {maxCardCount} 張卡。",
+      "branch": "銀行分行名稱"
+    },
+    "register": {
+      "confirmPassword": "重複密碼",
+      "btn": "立即註冊"
+    },
+    "password": {
+      "title": "登錄密碼",
+      "cp": "當前密碼",
+      "cp_label": "當前密碼",
+      "cp_placeholder": "輸入當前密碼",
+      "np": "新密碼",
+      "re_np": "重新輸入新密碼"
+    },
+    "line": {
+      "line_title": "LINE",
+      "line_label": "LINE 賬號",
+      "line_placeholder": "請輸入您的 LINE 賬號"
+    },
+    "facebook": {
+      "fb_title": "臉書",
+      "fb_label": "臉書賬號",
+      "fb_placeholder": "請輸入您的臉書賬號"
+    },
+    "telegram": {
+      "tg_title": "電報",
+      "tg_label": "電報賬號",
+      "tg_placeholder": "請輸入您的電報賬號"
+    },
+    "viber": {
+      "vb_title": "Viber",
+      "vb_label": "Viber 賬號",
+      "vb_placeholder": "請輸入您的 Viber 賬號"
+    },
+    "help_footer": {
+      "break1": "有問題嗎？",
+      "break2": "聯繫我們",
+      "break3": "尋求更多幫助"
+    },
+    "dialog": {
+      "confirm": "知道了！"
+    },
+    "winner": "贏家",
+    "proceedLogin": "已有帳號？",
+    "proceedRegister": "沒有賬號？",
+    "me": "我",
+    "topGames": "熱門遊戲",
+    "recommeneddGames": "為您推薦",
+    "newGames": "新遊戲",
+    "topNews": "頭條新聞",
+    "aboutUs": "關於我們",
+    "quickLink": {
+      "247": "24/7 客戶服務",
+      "title": "快速鏈接",
+      "faq": "常見問題解答",
+      "privacy": "隱私政策",
+      "tnc": "條款和條件",
+      "reponsible": "負責任的遊戲",
+      "follow": "關注我們"
+    },
+    "partners": "合作夥伴",
+    "brandTag": "{brandName}：一個成功的賭場！",
+    "brandDescription": "{brandName} 是所有在線賭場玩家的首選目的地，他們希望在他們的遊戲環境中尋找一流和優雅的感覺。我們的賭場為您提供超過 400 種在線賭場遊戲 - 一些傳統與現代曲折，和 一些全新的、創新的和異國情調的。憑藉不可抗拒的每週獎金促銷和有吸引力的忠誠度和 VIP 計劃，我們相信您會在未來一段時間內堅持使用。我們所有的軟件都是由業界最重要的在線開發和維護的 遊戲軟件公司 Pegasus。因此，我們能夠在精緻而引人入勝的氛圍中為您提供最高質量和終極安全性的最新尖端遊戲。",
+    "belongTo": "本網站屬於（PAGCOR）菲律賓娛樂博彩公司授權和監管 PGG Copyright© 2020 PGG Casino Co.Group All Rights Reserved Version {version}",
+    "promo": {
+      "join": "領取獎金"
+    },
+    "slot": {
+      "search": "搜索",
+      "provider": "供應商"
+    },
+    "deposit": {
+      "upload": "上傳"
+    },
+    "report": {
+      "joinedPromo": {
+        "title": "活動紀錄"
+      },
+      "transfer": {
+        "title": "轉賬記錄"
+      }
+    },
+    "vip": {
+      "level": "VIP計劃",
+      "levelKeepAccumulateBetAmount": "保級當月所需投注量",
+      "levelKeepAccumulateDeposit": "保級當月所需存款量",
+      "levelUpAccumulateBetAmount": "晉級當日所需投注量",
+      "levelUpAccumulateDeposit": "晉級當日所需存款量",
+      "birthBenefit": "生日禮金",
+      "promotionBenefit": "優惠活動利益",
+      "quarterlyBenefit": "季度利益"
+    },
+    "panel": {
+      "im": "即時通訊"
+    },
+    "header": {
+      "news": "新聞"
+    },
+    "gamingLicense": "遊戲許可證"
+  },
+  "rebateRate": {
+    "title": "返水比例",
+    "players": "活躍玩家",
+    "turnover": "有效投注",
+    "rebates": "返水比例"
+  },
+  "depositAndWithdrawalStatus": {
+    "depositOrWithdraw": "存/提款單",
+    "updatedTime": "更新時間",
+    "orderNo": "訂單號",
+    "depositMode": "模式",
+    "bankType": "銀行類型",
+    "channel": "渠道",
+    "amount": "金額",
+    "status": "狀態",
+    "approved": "成功",
+    "rejected": "已拒絕",
+    "withdrawal_approved": "待支付",
+    "paid": "成功",
+    "DepositNotify": "存款單",
+    "WithdrawNotify": "提款單",
+    "WithdrawalNotify": "提款單"
+  },
+  "t15": {
+    "notLogin": "您還未登錄！",
+    "logintoCheck": "登錄後查看",
+    "serverStatus": "服務器情況",
+    "sponsor": "贊助",
+    "memberLogin": "會員登錄",
+    "memberRegister": "會員注冊",
+    "sponsor1": "利物浦",
+    "sponsor2": "費倫天拿",
+    "sponsor3": "皇家蘇斯達",
+    "sponsor4": "里昂",
+    "sponsor5": "史浩克04",
+    "sponsorDesc": "亞洲官方合作夥伴"
+  },
+  "qq_account": "QQ帳號",
+  "qq_invalid": "QQ帳號格式不正確",
+  "qq_toEdit": "如需修改QQ帳號，請點擊",
+  "wechat_account": "微信帳號",
+  "wechat_invalid": "微信帳號格式不正確",
+  "wechat_toEdit": "如需修改微信帳號，請點擊",
+  "line_account": "Line帳號",
+  "line_invalid": "Line帳號格式不正確",
+  "line_toEdit": "如需修改Line帳號，請點擊",
+  "viber_account": "Viber帳號",
+  "viber_invalid": "Viber帳號格式不正確",
+  "viber_toEdit": "如需修改Viber帳號，請點擊",
+  "telegram_account": "Telegram帳號",
+  "telegram_invalid": "Telegram帳號格式不正確",
+  "telegram_toEdit": "如需修改Telegram帳號，請點擊",
+  "fb_account": "Facebook Messenger帳號",
+  "fb_invalid": "Facebook Messenger帳號格式不正確",
+  "fb_toEdit": "如需修改Facebook Messenger帳號，請點擊",
+  "whatsapp_account": "WhatsApp帳號",
+  "whatsapp_invalid": "WhatsApp帳號格式不正確",
+  "whatsapp_toEdit": "如需修改WhatsApp帳號，請點擊",
+  "zalo_account": "Zalo帳號",
+  "zalo_invalid": "Zalo帳號格式不正確",
+  "zalo_toEdit": "如需修改Zalo帳號，請點擊",
+  "here": "這裡",
+  "second": "秒",
+  "platform": "平台",
+  "security": "安全",
+  "message": "消息",
+  "announcement": "公告",
+  "changepassword": "修改密碼",
+  "changemoneypassword": "修改取款密碼",
+  "betrecord": "投注記錄",
+  "language": "語言",
+  "signout": "登出",
+  "click_download": "點擊下載",
+  "copy_link": "複製鏈接",
+  "pleaseenter": "請輸入",
+  "memo": "站內信",
+  "compose": "撰写新内容",
+  "memoinbox": "消息通知",
+  "sent": "寄件匣",
+  "number": "序",
+  "date": "日期",
+  "subject": "主旨",
+  "action": "操作",
+  "reply": "回覆",
+  "sendsuccess": "發送成功",
+  "daysago": "天前",
+  "sentBy": "來自",
+  "yourmessage": "內容",
+  "originalmessage": "原文",
+  "onlinechat": "在線聊天",
+  "collect": "收藏",
+  "create": "創造",
+  "gameEntrance": "遊戲入口",
+  "timeToPlay": "玩的時間到了",
+  "showAllGames": "顯示所有遊戲",
+  "news": "新聞",
+  "myfavorite": "我的收藏",
+  "myfavoriteDescription1": "没有收藏",
+  "myfavoriteDescription2": "快點收藏您最喜歡的遊戲！",
+  "mycustomersupport": "我的客服",
+  "welcometocustomersupport": "歡迎來到客服中心",
+  "membercenter": "會員中心",
+  "vipprivilege": "VIP特權",
+  "accountsafety": "帳號安全",
+  "rewardcenter": "獎勵中心",
+  "joinus": "加入我們",
+  "accountrecord": "帳務記錄",
+  "enterGame": "進入遊戲",
+  "balanceChange": "賬變記錄",
+  "shortCockfight": "鬥雞",
+  "confirmSubmit": "確認提交",
+  "ifsc": "IFSC",
+  "selectBank": "選擇銀行",
+  "donotshowagainfortoday": "今天不再顯示",
+  "alltimefavourite": "經典遊戲",
+  "bestlivecasino": "真人娛樂",
+  "followus": "關注我們",
+  "downloadapp": "下載APP",
+  "justwon": "剛剛贏了",
+  "introduction": "簡介",
+  "introdesc": "{brandName}手機賭場應用程式將我們網站的所有功能帶到您的指尖。我們支援 iOS 和 Android，擁有眾多娛樂遊戲。",
+  "compatible": "相容",
+  "compatibledesc": "應用程式支援任何 iOS 和 Android 裝置",
+  "secure": "安全",
+  "securedesc": "Android 和 iOS 複製相同的安全標準",
+  "extensive": "廣泛",
+  "extensivedesc": "訪問超過 1000 款遊戲，包括體育博彩等",
+  "convenient": "方便",
+  "convenientdesc": "使用者友善的介面簡單、清晰且極具吸引力",
+  "createaccount": "創建帳號",
+  "reenterpassword": "重新輸入密碼",
+  "customerservice724": "24/7 客戶服務",
+  "affiliateprogram": "{brandName} 聯盟計畫",
+  "affiliateprogramdesc": "{brandName} 線上賭場以其豐富的遊戲選擇而聞名，透過 {brandName} 聯盟計劃，您可以分享賭場的成功，同時增加您的收入。\n 免費成為聯盟會員，分享您的賭場熱情並一路賺錢。您的成功掌握在您手中！",
+  "becomeaffiliatenow": "立即成為會員",
+  "hotgames": "熱門遊戲",
+  "newgames": "新遊戲",
+  "recommended": "為您推薦",
+  "todaysspecial": "今日特定",
+  "more": "更多",
+  "addcardsuccesstitle": "您的銀行卡已成功添加。",
+  "addcardsuccessdesc": "恭喜！您的銀行卡已添加。您現在可以使用此卡進行提款。如果您想添加更多卡片，請點擊下面的“添加另一張卡片”。",
+  "addanothercard": "添加另一張卡片",
+  "balancechangereport": "賬變記錄",
+  "activityreport": "活動記錄",
+  "undermaintenance": "維護中",
+  "movn2_addcardsuccess": "恭喜！您的銀行卡已完成綁定，現在起，您可以使用這張卡進行提款。\n若您需要修改銀行卡，請聯絡客服團隊",
+  "t29": {
+    "wagering": "流水",
+    "wageringrequirement": "流水需求",
+    "main": "流水需求"
+  },
+  "wagering": {
+    "wageringrequirement": "流水需求",
+    "main": "流水需求"
+  },
+  "remark": "備註",
+  "sscnapoli": "拿坡里",
+  "astonvilla": "阿士東維拉",
+  "laclipper": "洛杉磯快艇",
+  "officialpartners": "官方合作夥伴",
+  "agent": {
+    "agentInfo": "代理資訊",
+    "playerList": "玩家列表",
+    "agentList": "代理列表",
+    "winlossReport": "輸贏報表",
+    "profitShareReport": "分紅報表",
+    "profitShareP/T": "分紅比例",
+    "cumulativenegativeDividendAmount": "累積負分紅",
+    "negativeDividend": "負分紅",
+    "liable": "承擔",
+    "notLiable": "不承擔",
+    "platformFee": "平台費用",
+    "productCharges": "產品費用",
+    "directAgent": "直屬代理",
+    "indirectAgent": "下線代理",
+    "diectPlayer": "直屬玩家",
+    "indirectPlayer": "下線玩家",
+    "referralCode": "推薦碼",
+    "totalDeposit": "總存款金額",
+    "totalWithdraw": "總提款金額",
+    "playerName": "玩家用戶名",
+    "status": "派發狀態",
+    "enabled": "活躍",
+    "disabled": "封鎖",
+    "inBlacklist": "黑名單",
+    "vipLevel": "VIP等級",
+    "registeredTime": "註冊時間",
+    "latestLogin": "最後登入時間",
+    "teamSize": "團隊人數",
+    "formula": {
+      "noOfTickets": "訂單數: 該代理商團隊或直屬玩家已結算的總訂單數。",
+      "turnover": "有效投注: 該代理團隊或直屬玩家的總有效投注額。",
+      "playerWinloss": "玩家輸贏: 下級代理團隊或直屬玩家的總輸贏金額。 (玩家贏: 顯示正數；玩家輸: 顯示負數)。",
+      "bonusAmount": "紅利金額: VIP福利 + VIP返水 + 活動的優惠金額。",
+      "agentWinloss": "代理輸贏: (0 - 玩家輸贏金額) * 代理佔成。",
+      "agentSpecial": "代理特別: (0 - 玩家特別) * 代理佔成。",
+      "teamContribution": "团队贡献=直属代理净盈利*(分红比例-直属代理分红比例)",
+      "playerPL": "玩家盈亏: 玩家输赢 + 玩家特别。",
+      "playerSpecial": "玩家特别: 此代理线全部玩家的 '红利金额' + '调帐'(公司、代理、优惠) ",
+      "agentPL": "代理盈亏: 代理输赢 + 代理特别。"
+    },
+    "memberType": "Type",
+    "totalOrders": "Total Orders",
+    "validBet": "Valid Bet",
+    "winLoss": "Win/Loss",
+    "special": "Special",
+    "pL": "P/L",
+    "agentSpecial": "Agent Special",
+    "agentPL": "Agent P/L",
+    "agentWinLoss": "Agent Win/Loss",
+    "bonus": "Bonus",
+    "adjust": "Adjust",
+    "total": "Total",
+    "playerSpecial": "Player Special",
+    "settlementPeriod": "Settlement Period",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "biWeekly": "Bi-Weekly",
+    "monthly": "Monthly",
+    "previousPeriod": "Previous Period",
+    "currentPeriod": "Current Period",
+    "startEndDate": "Start & End Date",
+    "distributed": "Distributed",
+    "review": "Review",
+    "reject": "Reject",
+    "agentCoveredBonus": "Agent-Covered Bonus",
+    "agentCoveredBonusAdjust": "Agent-Covered Bonus Adjust",
+    "periodPL": "Period P/L",
+    "companyWinLoss": "Co. W/L",
+    "netProfit": "Net Profit",
+    "bonusAdjust": "Bonus Adjust",
+    "playerContribution": "Player Contribution",
+    "profitSharePT": "Profit Share P/T",
+    "profitShareAmount": "Profit Share Amount",
+    "teamContribution": "Team Contribution",
+    "cumulativeNegativeDividendAmount": "Cumulative negative dividend amount",
+    "agentAdjust": "Agent Adjust",
+    "companyAdjust": "Company Adjust",
+    "pageTotal": "Page total",
+    "contribution": "Dividend Report"
+  },
+  "JILI_PH": {
+    "addCard": {
+      "phoneError": "11 位數字。 銀行號碼必須與註冊號碼一致。"
+    }
+  },
+  "MOVN2": {
+    "NET": "網關",
+    "DR": "直連",
+    "QR": "QR",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
+  },
+  "V227": {
+    "sponsor": "赞助",
+    "sponsor1": "鹿島鹿角",
+    "sponsor2": "馬德里體育會",
+    "sponsor3": "金州勇士"
+  },
+  "s88pay": {
+    "paymentAmount": "支付金額",
+    "scanToPay": "掃碼支付",
+    "remainingTime": "剩餘時間",
+    "accountNumber": "帳號",
+    "bank": "銀行",
+    "accountName": "帳戶名稱",
+    "recordingContent": "錄製內容（重要）",
+    "warn": "此二維碼為一次性二維碼，僅對本次交易有效。若您使用其多次付款造成任何損失，本公司將不予賠償。",
+    "download": "下載二維碼",
+    "notes": "筆記",
+    "list1": "1.為了快速更新您的金額，請輸入如上所示的 {matchCodeLength} 位數代碼。",
+    "list2": "2.請勿輸入超出 {matchCodeLength} 個可用字元的任何其他字母或字元。",
+    "list3": "3.金額無法修改。",
+    "list4": "4.如果您不使用二維碼掃描付款，請在銀行應用程式的轉帳說明中輸入 {matchCodeLength} 位代碼",
+    "expired": "您的二維碼已過期。"
+  }
+}
