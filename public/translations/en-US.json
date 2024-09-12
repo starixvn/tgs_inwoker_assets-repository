@@ -899,6 +899,7 @@
     },
     "login": {
       "login": "Login",
+      "signin": "sign in",
       "loginTitle": "SignIn",
       "loginTitleLine2": "Best betting site in Asia",
       "newRegister": "New Registration",
@@ -919,6 +920,7 @@
     },
     "register": {
       "registerTitle": "Register",
+      "signup": "sign up",
       "registerTitleLine2": "Best betting site in Asia",
       "username": "Username",
       "password": "Password",
@@ -928,6 +930,7 @@
       "promoteCode": "Invitation Code",
       "contract": "I confirm that I am at least 18 years old and have read and accepted the policy, privacy statement, terms and conditions of this website.",
       "contractWithAge": "I confirm that I am at least {age} years old and have read and accepted the policy, privacy statement, terms and conditions of this website.",
+      "useragreement": "I agree to the User Agreement & confirm I am at least 18 years old.",
       "btn": "Register Now",
       "activation": "SMS Verification",
       "email": "Please enter email address",
