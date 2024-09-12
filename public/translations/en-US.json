@@ -185,9 +185,15 @@
     "donotshowagain": "Don't show again",
     "hello": "Hello",
     "wagering": "Wagering",
-    "all": "All",
-    "tableGame": "Table Game",
-    "instantPlay": "Instant Play"
+    "all": "all",
+    "tableGame": "table game",
+    "instantPlay": "instant win",
+    "withdraw": "withdraw",
+    "translation": "translation",
+    "bethistory": "bet history",
+    "accountinfo": "account info",
+    "logout": "logout",
+    "or": "or"
   },
   "affiliate": {
     "title": "Affiliate",

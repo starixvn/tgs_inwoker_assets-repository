@@ -183,7 +183,13 @@
     "wagering": "Wagering",
     "all": "ทั้งหมด",
     "tableGame": "อีสปอร์ต",
-    "instantPlay": "ชนะด่วน"
+    "instantPlay": "ชนะด่วน",
+    "withdraw": "ถอนเงิน",
+    "translation": "(th-TH)-translation",
+    "bethistory": "(th-TH)-bet history",
+    "accountinfo": "(th-TH)-account info",
+    "logout": "ออกจากระบบ",
+    "or": "(th-TH)or"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",
