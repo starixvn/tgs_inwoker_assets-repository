@@ -189,7 +189,16 @@
     "bethistory": "(th-TH)-bet history",
     "accountinfo": "(th-TH)-account info",
     "logout": "ออกจากระบบ",
-    "or": "(th-TH)or"
+    "or": "(th-TH)-or",
+    "bebacksoon": "(th-TH)-be back soon",
+    "loadmore": "(th-TH)-load more",
+    "new": "(th-TH)-new",
+    "favorite": "(th-TH)-favorite",
+    "hot": "(th-TH)-hot",
+    "recommend": "(th-TH)-recommend",
+    "shown": "(th-TH)-shown",
+    "of": "(th-TH)-of",
+    "searchkeyword": "(th-TH)-search keyword"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",

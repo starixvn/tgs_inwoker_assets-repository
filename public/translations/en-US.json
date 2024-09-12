@@ -44,7 +44,7 @@
   "common": {
     "slots": "Slots",
     "currentEmail": "Current Email Address",
-    "nodata": "No data",
+    "nodata": "no data",
     "maintenance": "Maintenance Time",
     "pleaseEnterAccountName": "Please enter your real name",
     "noReachMin": "The mobile number is set to 8 to {maxlength} digits",
@@ -193,7 +193,16 @@
     "bethistory": "bet history",
     "accountinfo": "account info",
     "logout": "logout",
-    "or": "or"
+    "or": "or",
+    "bebacksoon": "be back soon",
+    "loadmore": "load more",
+    "new": "new",
+    "favorite": "favorite",
+    "hot": "hot",
+    "recommend": "recommend",
+    "shown": "shown",
+    "of": "of",
+    "searchkeyword": "search keyword"
   },
   "affiliate": {
     "title": "Affiliate",
