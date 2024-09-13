@@ -291,6 +291,8 @@
     "transferAccount": "โอนบัญชี",
     "accName": "ชื่อบัญชี",
     "cardNum": "หมายเลขบัญชี",
+    "yourbankaccountinfo": "(th-TH)-Your bank account info",
+    "msgPlsEnterBankAccount": "(th-TH)-Please enter the bank account number",
     "promotion": "โปรโมชั่น",
     "msgPlsSelectPromotion": "กรุณาเลือกโปรโมชั่น",
     "senderName": "ชื่อบัญชีโอนเงิน",
