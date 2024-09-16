@@ -205,7 +205,8 @@
     "searchkeyword": "Search Keyword",
     "allProviders": "All Providers",
     "providers": "Providers",
-    "showNumberMore": "Show %{numberMore} more"
+    "showNumberMore": "Show {{numberMore}} more",
+    "showNumberOfTotal": "Show {{number}} of {{total}}"
   },
   "affiliate": {
     "title": "Affiliate",
