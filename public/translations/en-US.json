@@ -1012,6 +1012,7 @@
   "Manual": "Manual",
   "Crypto": "Crypto",
   "BankTransfer": "Bank Transfer",
+  "EWallet": "E-Wallet",
   "ThirdParty": "Third Party",
   "CustomBank": "Custom Bank",
   "VR": {
