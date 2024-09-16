@@ -200,7 +200,8 @@
     "of": "จาก",
     "searchkeyword": "ค้นหาคำสำคัญ",
     "allProviders": "All Providers",
-    "providers": "Providers"
+    "providers": "Providers",
+    "showNumberMore": "Show %{numberMore} more"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",
