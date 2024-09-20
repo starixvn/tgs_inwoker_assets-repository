@@ -939,7 +939,7 @@
       "useragreement": "(th-TH)-I agree to the User Agreement & confirm I am at least 18 years old",
       "btn": "ลงทะเบียนเลย",
       "activation": "การยืนยันทาง SMS",
-      "email": "โปรดป้อนที่อยู่อีเมลของคุณ",
+      "email": "Email Address",
       "errorCustomDesc": "Please press \"Send Code\" button, and Input \"123456\" then press \"Submit\""
     },
     "resetPassword": {

@@ -950,7 +950,7 @@
       "useragreement": "I agree to the User Agreement & confirm I am at least 18 years old.",
       "btn": "Register Now",
       "activation": "SMS Verification",
-      "email": "Please enter email address",
+      "email": "Email Address",
       "errorCustomDesc": "Please press \"Send Code\" button, and Input \"123456\" then press \"Submit\""
     },
     "resetPassword": {
