@@ -206,7 +206,11 @@
     "allProviders": "All Providers",
     "providers": "Providers",
     "showNumberMore": "Show {{numberMore}} more",
-    "showNumberOfTotal": "Show {{number}} of {{total}} games"
+    "showNumberOfTotal": "Show {{number}} of {{total}} games",
+    "withdrawalEWalletName": "E-Wallet Holder Name",
+    "withdrawalEWalletId": "E-Wallet ID",
+    "msgWithdrawalEWalletName": "Please enter your E-Wallet holder name",
+    "msgWithdrawalEWalletId": "Please enter your E-Wallet ID"
   },
   "affiliate": {
     "title": "Affiliate",
