@@ -1542,8 +1542,8 @@
   },
   "extended": {
     "name": "Account name",
-    "phone": "Phone",
-    "eMoneyName": "E-money Name",
+    "phone": "E-Wallet ID",
+    "eMoneyName": "E-Wallet Holder Name",
     "bankAccount": "Account number",
     "address": "Address",
     "fpsId": "FPS ID",
