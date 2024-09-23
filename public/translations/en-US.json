@@ -167,8 +167,8 @@
     "joinGame": "Join game",
     "withdrawalBankType": "Type",
     "withdrawalChannel": "Channel",
-    "withdrawalNumber": "Bank card number/Crypto currency address",
-    "msgEnterWithdrawalNumber": "Please enter bank card number/crypto currency address",
+    "withdrawalNumber": "Bank card number",
+    "msgEnterWithdrawalNumber": "Please enter bank card number",
     "msgEmailExist": "Email address already exists",
     "msgRequiredTurnover": "Unable to withdraw. Please make sure you meet the wagering requirements, or contact Customer Service for further information.",
     "msgInvalidUsername": "Invalid username/ password.",
@@ -210,7 +210,8 @@
     "withdrawalEWalletName": "E-Wallet Holder Name",
     "withdrawalEWalletId": "E-Wallet ID",
     "msgWithdrawalEWalletName": "Please enter your E-Wallet holder name",
-    "msgWithdrawalEWalletId": "Please enter your E-Wallet ID"
+    "msgWithdrawalEWalletId": "Please enter your E-Wallet ID",
+    "msgEWalletIdNoReachMin": "The E-Wallet ID is set to 8 to {maxlength} digits"
   },
   "affiliate": {
     "title": "Affiliate",
@@ -257,7 +258,7 @@
       "branch": "Branch",
       "branchPlaceHolder": "Please Enter Bank Branch",
       "eWalletAccount": "E-money Name",
-      "msgEnterEwalletAccount": "Please enter e-money name",
+      "msgEnterEwalletAccount": "Please enter E-Wallet holder name",
       "phone": "Phone number",
       "msgEnterPhone": "Please enter phone number"
     },

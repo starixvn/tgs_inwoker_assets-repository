@@ -202,7 +202,12 @@
     "allProviders": "All Providers",
     "providers": "Providers",
     "showNumberMore": "Show {{numberMore}} more",
-    "showNumberOfTotal": "Show {{number}} of {{total}} games"
+    "showNumberOfTotal": "Show {{number}} of {{total}} games",
+    "withdrawalEWalletName": "(TH) E-Wallet Holder Name",
+    "withdrawalEWalletId": "(TH) E-Wallet ID",
+    "msgWithdrawalEWalletName": "(TH) Please enter your E-Wallet holder name",
+    "msgWithdrawalEWalletId": "(TH) Please enter your E-Wallet ID",
+    "msgEWalletIdNoReachMin": "(TH) The E-Wallet ID is set to 8 to {maxlength} digits"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",
