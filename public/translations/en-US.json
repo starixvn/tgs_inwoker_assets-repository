@@ -351,7 +351,12 @@
     "plsEnterUSDTAmount": "Please Enter USDT Amount",
     "playerNote": "Player Note",
     "plsEnterPlayerNote": "Please enter the note",
-    "eWalletAccount": "E-money Name"
+    "eWalletAccount": "E-Wallet Holder Name",
+    "eWalletAccountNumber": "E-Wallet ID",
+    "msgAccName": "Please enter account name",
+    "msgEWalletAccountName": "Please enter E-Wallet Holder name",
+    "msgEWalletAccountNumber": "Please enter E-Wallet ID",
+    "msgAccNum": "Please enter account number"
   },
   "forgotPassword": {
     "title": "Forgot Password",
