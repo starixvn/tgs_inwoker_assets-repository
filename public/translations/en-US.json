@@ -18,7 +18,6 @@
     "ERR202": "Player is disabled.",
     "ERR401": "Please check your input."
   },
-
   "panel": {
     "im": "Instant Messaging",
     "cs": "Live Chat",
@@ -32,7 +31,6 @@
     "liveChatOptionRegister": "Registration",
     "liveChatOptionSlot": "Slots"
   },
-
   "support": {
     "contactnow": "Chat Now",
     "online": "Online Support",
@@ -40,7 +38,6 @@
     "qr": "QR Support",
     "join": "Join"
   },
-
   "common": {
     "slots": "Slots",
     "currentEmail": "Current Email Address",
@@ -95,7 +92,7 @@
     "msgRegisterWithdrawalPassInvalid": "The withdrawal password should be 6 digits",
     "msgRegisterWithdrawalPassMatchInvalid": "The withdrawal password must be the same as the confirmed withdrawal password",
     "msgAlreadyExist": "Username Already Exist",
-    "emailAddress": "Email Address",
+    "emailAddress": "Email",
     "qqNumber": "QQ Account",
     "wechatNumber": "Wechat Account",
     "wechat": "Wechat Account",
@@ -153,12 +150,12 @@
     "info": "Info",
     "update": "Update",
     "reset": "Reset",
-    "msgEnterNewPass": "Enter New Password",
-    "NewPass": "Please enter new password",
+    "msgEnterNewPass": "Enter new password",
+    "NewPass": "Create New Password",
     "msgEnterOldPass": "Please enter old password",
     "oldPass": "Old Password",
-    "msgEnterConfirmPass": "Please enter again new password",
-    "ConfirmPass": "Confirm new password",
+    "msgEnterConfirmPass": "Enter new password again",
+    "ConfirmPass": "Confirm New Password",
     "language": "Language",
     "startGame": "START",
     "cs": "CHAT",
@@ -471,7 +468,6 @@
       }
     }
   },
-
   "profile": {
     "birthdate": {
       "title": "Birth Date",
@@ -498,18 +494,17 @@
       "editPassword": "Edit Password",
       "title": "Edit login password",
       "msgEnterOriPass": "Please enter old password",
-      "OriPass": "Old password"
+      "OriPass": "Current Password"
     },
     "changePhone": {
       "title": "Change phone number",
       "step1Title": "Please enter old phone number",
       "step2Title": "Set new phone number"
     },
-
     "nameVerify": {
       "editHere": "here",
-      "title": "Real Name",
-      "msgEnterICNum": "Enter ID number",
+      "title": "Real Name Verification",
+      "msgEnterICNum": "Enter your ID number",
       "icNum": "ID Number",
       "msgInvalidICNum": "Invalid ID number",
       "msgPlsEnterName": "Please enter your real name",
@@ -539,8 +534,7 @@
       "editEmail": "Edit email",
       "verifyEmail": "Verify email",
       "addEmail": "Setup new email",
-      "plsEnterEmail": "Please enter email address",
-
+      "plsEnterEmail": "Enter your email",
       "bindEmail": "Bind Email Address",
       "toEdit": "If Required To Edit Email, Please Click ",
       "here": "Here"
@@ -610,7 +604,6 @@
       "confirmNewPassword": "Confirm New Password",
       "plsEnterOldPassword": "Please enter old password"
     },
-
     "withdrawalPassword": {
       "msgInvalidConPass": "Confirm Password was not match",
       "title": "Withdrawal Password",
@@ -729,7 +722,6 @@
     "new": "New",
     "hot": "Hot"
   },
-
   "transfer": {
     "autoTransfer": "Auto Transfer : All credits will be transferred to games during launch",
     "on": "ON",
@@ -761,7 +753,6 @@
     "msgFailedTransfer": "Transfer failed",
     "msgTransferOutFromGP": "Transfer from all sub wallet to main wallet"
   },
-
   "withdrawal": {
     "notReachMin": "Withdrawal amount is not reach minimum amount",
     "reachedMax": "Withdrawal amount reached maximum amount",
@@ -944,7 +935,6 @@
       "loginTitle": "SignIn",
       "loginTitleLine2": "Best betting site in Asia",
       "newRegister": "New Registration",
-
       "rememberMe": "Remember Me",
       "forgetPass": "Forgot Password",
       "cs": "If you have problems logging in, please do not hesitate to ",
@@ -984,7 +974,6 @@
       "confirmNewPassword": "Confirm New Password",
       "resetSuccess": "Password reset successfully"
     },
-
     "account": {
       "fund": "Fund",
       "personal": "Personal Info",
@@ -1010,14 +999,12 @@
         "markAsRead": "Mark as Read"
       }
     },
-
     "download": {
       "titleDesc": "",
       "supportPlatform": "(Android/iOS)",
       "pcDownload": "Mobile Web",
       "mobileDownload": "Android/iOS Download"
     },
-
     "maintenance": {
       "title": "Sorry, system under maintenance",
       "maintenance": "maintenance",
@@ -1278,15 +1265,40 @@
   "9WCRICKET": {
     "sports": "9WCRICKET"
   },
-  "AWC_FACAI": { "electron": "FACHAI", "slots": "FACHAI", "fish": "FACHAI" },
-  "FACHAI": { "electron": "FACHAI", "slots": "FACHAI", "fish": "FACHAI" },
-  "AWC_PGS": { "electron": "PGSoft", "slots": "PGSoft" },
-  "AWC_AWS": { "electron": "AWS", "slots": "AWS" },
-  "AWC_FS": { "slots": "Fast Spin" },
-  "AWC_YL": { "electron": "YL", "fish": "YL" },
-  "AWC_KM": { "electron": "KingMaker" },
-  "AWC_LUDO": { "electron": "LUDO" },
-  "AWC_AELOTTO": { "lottery": "AE" },
+  "AWC_FACAI": {
+    "electron": "FACHAI",
+    "slots": "FACHAI",
+    "fish": "FACHAI"
+  },
+  "FACHAI": {
+    "electron": "FACHAI",
+    "slots": "FACHAI",
+    "fish": "FACHAI"
+  },
+  "AWC_PGS": {
+    "electron": "PGSoft",
+    "slots": "PGSoft"
+  },
+  "AWC_AWS": {
+    "electron": "AWS",
+    "slots": "AWS"
+  },
+  "AWC_FS": {
+    "slots": "Fast Spin"
+  },
+  "AWC_YL": {
+    "electron": "YL",
+    "fish": "YL"
+  },
+  "AWC_KM": {
+    "electron": "KingMaker"
+  },
+  "AWC_LUDO": {
+    "electron": "LUDO"
+  },
+  "AWC_AELOTTO": {
+    "lottery": "AE"
+  },
   "TF": {
     "sports": "TF Gaming",
     "esports": "TF"
@@ -1368,7 +1380,6 @@
       "point2": "2. Go to \"Settings\"->\"Security\"-> enable installation from unknown sources. Relaunch the app and start playing."
     }
   },
-
   "piso": {
     "withdrawalNumber": "Bank Account Number/Gcash Number",
     "msgEnterWithdrawalNumber": "Please enter bank account number/ Gcash number",
@@ -1448,16 +1459,13 @@
     "waiting": "Waiting verification from customer service",
     "goVerify": "Verify real name"
   },
-
   "disabledAddCard": {
     "title": "No card(s) found in your account",
     "description": "Please contact customer service to add card in order to access withdrawal page."
   },
-
   "hint": {
     "_099": "Available Now - 24 Hours"
   },
-
   "idr1": {
     "pleaseEnterAccountName": "Please enter your origin account",
     "msgPlsSelectAccount": "Please select account",
@@ -1494,7 +1502,6 @@
     "winnings": "Winnings",
     "outOfCount": "Oops, it seems you've run out of spins."
   },
-
   "idr1HomePage": {
     "section1": {
       "live": "Live casino",
@@ -1624,7 +1631,6 @@
       "line_label": "LINE account",
       "line_placeholder": "Please enter your LINE account"
     },
-
     "facebook": {
       "fb_title": "Facebook",
       "fb_label": "Facebook Account",
@@ -1753,7 +1759,6 @@
     "sponsor5": "Schalke 04",
     "sponsorDesc": "Official Asian Partner"
   },
-
   "qq_account": "QQ Account",
   "qq_invalid": "Invalid QQ account",
   "qq_toEdit": "If Required to Edit QQ, Please Click ",
@@ -1779,10 +1784,8 @@
   "zalo_invalid": "Invalid Zalo account",
   "zalo_toEdit": "If Required to Edit Zalo, Please Click ",
   "here": "here",
-
   "second": "Second",
   "platform": "Platform",
-
   "security": "Security",
   "message": "Messages",
   "announcement": "Announcement",
@@ -1793,7 +1796,6 @@
   "signout": "Sign Out",
   "click_download": "Click to download",
   "copy_link": "Copy link",
-
   "pleaseenter": "Please enter ",
   "memo": "Memo",
   "compose": "Compose",
@@ -1809,14 +1811,12 @@
   "sentBy": "Sent by",
   "yourmessage": "Your Message",
   "originalmessage": "Original Message",
-
   "onlinechat": "Online Chat",
   "collect": "Collect",
   "create": "Create",
   "gameEntrance": "Game Entrance",
   "timeToPlay": "Time To Play",
   "showAllGames": "Show All Games",
-
   "news": "News",
   "myfavorite": "My Favorite",
   "myfavoriteDescription1": "No collections yet",
@@ -1832,21 +1832,15 @@
   "enterGame": "Enter Game",
   "balanceChange": "Balance Change",
   "shortCockfight": "Sabong",
-
   "confirmSubmit": "Are you sure",
-
   "ifsc": "IFSC Code",
-
   "selectBank": "Select Bank",
-
   "donotshowagainfortoday": "Don't show again for today",
-
   "alltimefavourite": "All Time Favourite",
   "bestlivecasino": "Best Live Casino",
   "followus": "Follow Us",
   "downloadapp": "Download App",
   "justwon": "Just Won",
-
   "introduction": "Introduction",
   "introdesc": "The {brandName} Mobile Casino App transfers all the powers of our site onto your fingertips. We are available for IOS and Android that features a multitude of entertaining games.",
   "compatible": "Compatible",
@@ -1857,29 +1851,23 @@
   "extensivedesc": "Access to more than 1000+ games including sports betting and more.  ",
   "convenient": "Convenient",
   "convenientdesc": "User friendly interface simple, clear, and extremely engaging.  ",
-
   "createaccount": "Create Account",
   "reenterpassword": "Re-enter Password",
   "customerservice724": "24/7 Customer Service",
-
   "affiliateprogram": "{brandName} Affiliate Program",
   "affiliateprogramdesc": "{brandName} online casino is well known for its vast selectetion of games, and with the {brandName} Affiliate Program, you can share in the casino's success while boosting your revenue. \n Become an affiliate for free, share your casino enthusiasm and earn along the way. Your success is in your hands!",
   "becomeaffiliatenow": "Become Affiliate Now",
-
   "hotgames": "Hot Games",
   "newgames": "New Games",
   "recommended": "Recommended",
   "todaysspecial": "Today's Special",
   "more": "More",
-
   "addcardsuccesstitle": "Your bank card has been successfully added.",
   "addcardsuccessdesc": "Congrats! Your bank card has been added. You can now making withdrawal with this card. If you wish to add more cards, please click ' Add Another Card' below.",
   "addanothercard": "Add Another Card",
-
   "balancechangereport": "Balance",
   "activityreport": "Activity ",
   "undermaintenance": "Under Maintenance",
-
   "movn2_addcardsuccess": "Congrats! Your bank card has been added. You can now making withdrawal with this card. \n If you wish to edit your card, please contact the Customer Service.",
   "t29": {
     "wagering": "Wagering",
@@ -1890,14 +1878,11 @@
     "wageringrequirement": "Wagering Requirement",
     "main": "Main"
   },
-
   "remark": "Remark",
-
   "sscnapoli": "SSC Napoli",
   "astonvilla": "Aston Villa",
   "laclipper": "LA Clippers",
   "officialpartners": "Official Partners",
-
   "agent": {
     "agentInfo": "Agent's Info",
     "playerList": "Player List",
@@ -1978,13 +1963,11 @@
     "pageTotal": "Page total",
     "contribution": "Dividend Report"
   },
-
   "JILI_PH": {
     "addCard": {
       "phoneError": "11-digit. Bank number must match the registered number."
     }
   },
-
   "MOVN2": {
     "NET": "Local Bank",
     "DR": "Online Bank",
@@ -1993,14 +1976,12 @@
     "VP": "ViettelPay",
     "USDT": "USDT"
   },
-
   "V227": {
     "sponsor": "Sponsor",
     "sponsor1": "Kashima Antlers",
     "sponsor2": "Atletico Madrid",
     "sponsor3": "Golden State Warriors"
   },
-
   "369": {
     "profile": {
       "title": "ACCOUNT",
@@ -2009,7 +1990,6 @@
       "notYetVerified": "Not yet verified"
     }
   },
-
   "s88pay": {
     "paymentAmount": "Payment Amount",
     "scanToPay": "Scan to Pay",
