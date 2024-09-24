@@ -370,6 +370,14 @@
     "invalidConfirmPass": "Confirm password not match",
     "updateSuccess": "Password reset successful."
   },
+  "betSlip": {
+    "title": "Bet Slip",
+    "profit": "Profit",
+    "betAmount": "Bet Amount",
+    "payout": "Payout",
+    "betID": "Bet ID",
+    "playNow": "Play now"
+  },
   "inbox": {
     "title": "Message Center",
     "manage": "Edit",

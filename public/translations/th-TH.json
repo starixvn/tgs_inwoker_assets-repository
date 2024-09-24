@@ -365,6 +365,14 @@
     "invalidConfirmPass": "รหัสผ่านยืนยันไม่ถูกต้อง",
     "updateSuccess": "รีเซ็ตรหัสผ่านสำเร็จ"
   },
+  "betSlip": {
+    "title": "Bet Slip",
+    "profit": "Profit",
+    "betAmount": "Bet Amount",
+    "payout": "Payout",
+    "betID": "Bet ID",
+    "playNow": "Play now"
+  },
   "inbox": {
     "title": "ศูนย์ข้อความ",
     "manage": "แก้ไข",
