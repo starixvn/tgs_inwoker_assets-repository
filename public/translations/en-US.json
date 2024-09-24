@@ -52,7 +52,7 @@
     "noReachZeroStartPhone": "The phone number field must contain {maxlength} digits, and the first digit must be 0.",
     "upload": "Upload document",
     "upload2": "Click to choose file",
-    "title": "Nova88 - Player Site",
+    "title": "Nova88 Solutions | Online Betting | Demo Site",
     "register": "Register",
     "login": "Login",
     "submit": "Submit",
@@ -935,8 +935,8 @@
       "policies": "Policies",
       "aboutus": "About Us",
       "livesupport": "Live Support",
-      "websitedescription": "This website offers gaming with rich experience. To be a user of our site you must be over 18 years old. We are not responsible for the violation of your local laws. Play responsibly and have fun on S1.",
-      "allrightsreserverd": "All Rights Reserved."
+      "allrightsreserverd": "All Rights Reserved.",
+      "paymentMethoad": "Payment Method"
     },
     "login": {
       "login": "Login",
