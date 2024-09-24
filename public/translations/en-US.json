@@ -356,7 +356,13 @@
     "msgAccName": "Please enter account name",
     "msgEWalletAccountName": "Please enter E-Wallet Holder name",
     "msgEWalletAccountNumber": "Please enter E-Wallet ID",
-    "msgAccNum": "Please enter account number"
+    "msgAccNum": "Please enter account number",
+    "yourEWalletAccountInfo": "Your E-Wallet account info"
+  },
+  "payment": {
+    "provider": "Payment Service Provider",
+    "method": "Payment Method",
+    "channel": "Payment Channel"
   },
   "forgotPassword": {
     "title": "Forgot Password",
