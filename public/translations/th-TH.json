@@ -926,7 +926,14 @@
       "aboutus": "เกี่ยวกับ",
       "livesupport": "การสนับสนุนไลฟ์สด",
       "allrightsreserverd": "© 2024 Nova88 Solutions. All Rights Reserved. 18+",
-      "paymentMethod": "Payment Method"
+      "paymentMethod": "Payment Method",
+      "rulesAndRegulation": "Rules and Regulations",
+      "accountTerms": "Account Terms",
+      "faq": "FAQ",
+      "termAndConditions": "เงี่อนไขและกติกา",
+      "responsibleGaming": "Responsible Gaming",
+      "privacyPolicy": "Privacy Policy",
+      "cookiePolicy": "Cookie Policy"
     },
     "login": {
       "login": "เข้าสู่ระบบ",

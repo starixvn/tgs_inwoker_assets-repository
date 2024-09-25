@@ -925,10 +925,16 @@
       "community": "Community",
       "support": "Support",
       "policies": "Policies",
-      "aboutus": "About Us",
       "livesupport": "Live Support",
       "allrightsreserverd": "© 2024 Nova88 Solutions. All Rights Reserved. 18+",
-      "paymentMethod": "Payment Method"
+      "paymentMethod": "Payment Method",
+      "rulesAndRegulation": "Rules and Regulations",
+      "accountTerms": "Account Terms",
+      "faq": "FAQ",
+      "termAndConditions": "Terms & Conditions",
+      "responsibleGaming": "Responsible Gaming",
+      "privacyPolicy": "Privacy Policy",
+      "cookiePolicy": "Cookie Policy"
     },
     "login": {
       "login": "Login",
