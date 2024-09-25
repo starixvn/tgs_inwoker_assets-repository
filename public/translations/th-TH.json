@@ -210,6 +210,7 @@
     "msgWithdrawalEWalletName": "(TH) Please enter your E-Wallet holder name",
     "msgWithdrawalEWalletId": "(TH) Please enter your E-Wallet ID",
     "msgEWalletIdNoReachMin": "(TH) The E-Wallet ID is set to 8 to {maxlength} digits",
+    "optional": "((th-TH) optional)",
     "accountBalance": "ยอดเงินคงเหลือในบัญชี",
     "totalDeposit": "ยอดเงินฝากทั้งหมด",
     "totalBetAmount": "จำนวนเงินเดิมพันทั้งหมด",
@@ -241,6 +242,10 @@
     "title": "แก้ไขธนาคาร",
     "myCard": "บัตรธนาคารของฉัน",
     "tail": "เลขท้าย",
+    "type": "(TH) Type",
+    "brand": "(TH) Brand",
+    "number": "(TH) Account Number",
+    "selectYourBankAccount": "(TH) Select Your Bank Account",
     "transferRecord": "บันทึกการโอน",
     "removeCard": "ถอดการ์ด",
     "checkDetails": "ตรวจสอบ",
@@ -271,6 +276,7 @@
     },
     "success": {
       "title": "เพิ่มบัตรธนาคารเรียบร้อยแล้ว",
+      "addOtherAccount": "(th-TH) Add Other Account",
       "successDesc": "ยินดีด้วย คุณได้ทำการผูกบัตรธนาคารเรียบร้อยแล้ว คุณสามารถเลือกบัตรธนาคารของคุณได้อย่างรวดเร็วเมื่อคุณถอนเงินในภายหลัง หากคุณต้องการผูกบัตรธนาคารอื่นๆ",
       "successDescDeposit": "ยินดีด้วย คุณได้ทำการผูกบัตรธนาคารเรียบร้อยแล้ว ",
       "bindDesc": "โปรดคลิก 'ผูกบัตรธนาคารอื่น' ด้านล่างเพื่อดำเนินการอีกครั้ง",
@@ -792,7 +798,8 @@
     "usdtAmount": "USDT จำนวนเงินเข้าบัญชี",
     "playerNote": "หมายเหตุผู้เล่น",
     "plsEnterPlayerNote": "กรุณาใส่หมายเหตุผู้เล่น",
-    "amount": "(th-TH) Withdrawal amount"
+    "amount": "(th-TH) Withdrawal amount",
+    "addNewAccount": "(th-TH) Add New Account"
   },
   "promotion": {
     "emptyLine1": "ไม่มีกิจกรรมในขณะนี้",
@@ -1042,6 +1049,7 @@
   "Crypto": "สกุลเงินเสมือน",
   "BankTransfer": "การโอนเงินผ่านธนาคาร",
   "EWallet": "กระเป๋าเงินอิเล็กทรอนิกส์",
+  "Bank": "(th-TH) Bank",
   "ThirdParty": "บุคคลที่สาม",
   "CustomBank": "ธนาคารที่กำหนดเอง",
   "VR": {

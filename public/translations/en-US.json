@@ -211,6 +211,7 @@
     "msgWithdrawalEWalletName": "Please enter your E-Wallet holder name",
     "msgWithdrawalEWalletId": "Please enter your E-Wallet ID",
     "msgEWalletIdNoReachMin": "The E-Wallet ID is set to 8 to {maxlength} digits",
+    "optional": "(optional)",
     "accountBalance": "Account Balance",
     "totalDeposit": "Total Deposit",
     "totalBetAmount": "Total Bet Amount",
@@ -241,7 +242,11 @@
   "card": {
     "title": "Manage Bank Account",
     "myCard": "Bank Account Number",
+    "type": "Type",
+    "brand": "Brand",
+    "number": "Account Number",
     "tail": "Last 4 Digits",
+    "selectYourBankAccount": "Select Your Bank Account",
     "transferRecord": "Transaction History",
     "removeCard": "Remove Account",
     "checkDetails": "Check",
@@ -272,6 +277,7 @@
     },
     "success": {
       "title": "Add Bank Succesful",
+      "addOtherAccount": "Add Other Account",
       "successDesc": "Congratulations that you have completed the bank account binding. You can quickly select your withdrawal bank when you withdraw later. If you want to bind another banks,",
       "successDescDeposit": "Congratulations that you have completed the bank account binding.",
       "bindDesc": "Please click “Bind Other Banks” below to perform the operation again.",
@@ -794,7 +800,8 @@
     "usdtAmount": "USDT Amount",
     "playerNote": "Player Note",
     "plsEnterPlayerNote": "Please enter the note",
-    "amount": "Withdrawal Amount"
+    "amount": "Withdrawal Amount",
+    "addNewAccount": "Add New Account"
   },
   "promotion": {
     "emptyLine1": "MORE PROMOTIONS AND ACTIVITIES ARE",
@@ -1045,6 +1052,7 @@
   "EWallet": "E-Wallet",
   "ThirdParty": "Third Party",
   "CustomBank": "Custom Bank",
+  "Bank": "Bank",
   "VR": {
     "lottery": "VR",
     "desc": "VR lottery. We are also developing the VR Electronic series of games, determined to give customers more diversified choices. VR will continue to create and progress, in order to introduce more new kind lottery for the public, and create an all-round entertainment environment."
