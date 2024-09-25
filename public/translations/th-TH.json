@@ -359,7 +359,8 @@
   "payment": {
     "provider": "(th-TH) Payment Service Provider",
     "method": "(th-TH) Payment Method",
-    "channel": "(th-TH) Payment Channel"
+    "channel": "(th-TH) Payment Channel",
+    "msgWithdrawalRequestSuccess": "(th-TH) Withdrawal Request Successful"
   },
   "forgotPassword": {
     "title": "ลืมรหัสผ่าน",

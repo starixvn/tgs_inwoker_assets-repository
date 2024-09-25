@@ -147,7 +147,7 @@
     "msgEnterUserName": "Please enter username",
     "msgEnterPassword": "Please enter password",
     "deposit": "Deposit",
-    "withdrawal": "Withdraw",
+    "withdrawal": "Withdrawal",
     "transfer": "Transfer",
     "info": "Info",
     "update": "Update",
@@ -245,7 +245,7 @@
       "title": "Add Bank",
       "subTitle": "Bank card number must be 15-19 digits",
       "msgSelectBank": "Please enter bank",
-      "BankName": "Bank name",
+      "BankName": "Bank Name",
       "msgEnterBankName": "Please enter bank name",
       "BankAccountName": "Bank holder name",
       "msgEnterBankAccountName": "Please enter bank holder name",
@@ -262,7 +262,7 @@
       "msgEnterPhone": "Please enter phone number"
     },
     "success": {
-      "title": "Add bank succesful",
+      "title": "Add Bank Succesful",
       "successDesc": "Congratulations that you have completed the bank account binding. You can quickly select your withdrawal bank when you withdraw later. If you want to bind another banks,",
       "successDescDeposit": "Congratulations that you have completed the bank account binding.",
       "bindDesc": "Please click “Bind Other Banks” below to perform the operation again.",
@@ -301,8 +301,8 @@
     "depositMethod": "Deposit Type",
     "depositTunnel": "Deposit Channel",
     "transferAccount": "Transfer account",
-    "accName": "Account name",
-    "cardNum": "Account number",
+    "accName": "Account Holder Name",
+    "cardNum": "Account Holder Number",
     "yourbankaccountinfo": "Your bank account info",
     "msgPlsEnterBankAccount": "Please enter the bank account number",
     "promotion": "Promotion ",
@@ -352,10 +352,10 @@
     "plsEnterPlayerNote": "Please enter the note",
     "eWalletAccount": "E-Wallet Holder Name",
     "eWalletAccountNumber": "E-Wallet ID",
-    "msgAccName": "Please enter account name",
+    "msgAccName": "Please enter bank account name",
     "msgEWalletAccountName": "Please enter E-Wallet Holder name",
     "msgEWalletAccountNumber": "Please enter E-Wallet ID",
-    "msgAccNum": "Please enter account number",
+    "msgAccNum": "Please enter bank account number",
     "yourEWalletAccountInfo": "Your E-Wallet account info"
   },
   "payment": {
@@ -766,6 +766,7 @@
     "msgEnterWithdrawalPass": "Please Enter Withdrawal Password",
     "msgInsufficient": "Insufficient balance.",
     "msgSuccess": "Your withdrawal request has been submitted successfully.",
+    "msgWithdrawalRequestSuccess": "Withdrawal Request Successful",
     "title": "Withdraw",
     "limitDeposit": "Deposit Limit",
     "canWithdrawal": "Amount available to withdraw",
@@ -776,7 +777,7 @@
     "tail": "",
     "enterAmount": "Please enter withdrawal amount",
     "msgWithdrawalAmount": "Please enter 100-450,000",
-    "notice": "The account name of this bank must be the same as the real name filled in your account, otherwise the withdrawal may fail",
+    "notice": "The account name of this bank must be the same as the real name filled in your account profile.",
     "receiverAcc": "Receiver Account",
     "receiverName": "Receiver Name",
     "fee": "Fee",
@@ -784,7 +785,7 @@
     "usdtAmount": "USDT Amount",
     "playerNote": "Player Note",
     "plsEnterPlayerNote": "Please enter the note",
-    "amount": "Withdrawal amount"
+    "amount": "Withdrawal Amount"
   },
   "promotion": {
     "emptyLine1": "MORE PROMOTIONS AND ACTIVITIES ARE",
