@@ -23,7 +23,8 @@
     "eject": "react-scripts eject",
     "docker:build": "docker build -t asset-server .",
     "docker:run": "docker run -d --restart always -p 9000:5000 --name asset-server asset-server",
-    "docker": "npm run docker:build && npm run docker:run"
+    "docker": "npm run docker:build && npm run docker:run",
+    "docker:destroy": "docker stop asset-server && docker rm asset-server"
   },
   "eslintConfig": {
     "extends": [

@@ -779,7 +779,8 @@
     "receiverAmount": "จำนวนเงินเข้าบัญชี",
     "usdtAmount": "USDT จำนวนเงินเข้าบัญชี",
     "playerNote": "หมายเหตุผู้เล่น",
-    "plsEnterPlayerNote": "กรุณาใส่หมายเหตุผู้เล่น"
+    "plsEnterPlayerNote": "กรุณาใส่หมายเหตุผู้เล่น",
+    "amount": "(th-TH) Withdrawal amount"
   },
   "promotion": {
     "emptyLine1": "ไม่มีกิจกรรมในขณะนี้",
