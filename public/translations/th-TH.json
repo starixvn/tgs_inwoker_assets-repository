@@ -90,6 +90,8 @@
     "msgRegisterWithdrawalPassInvalid": "รหัสผ่านการถอนควรเป็น 6 หลัก",
     "msgRegisterWithdrawalPassMatchInvalid": "รหัสผ่านการถอนต้องเหมือนกับรหัสผ่านการถอนที่ยืนยันแล้ว",
     "msgAlreadyExist": "มีชื่อผู้ใช้นี้แล้ว",
+    "msgPlayerNotFound": "ไม่พบผู้เล่นในระบบ",
+    "msgVerificationCodeIncorrect": "รหัสตรวจสอบไม่ถูกต้อง",
     "emailAddress": "ที่อยู่อีเมล",
     "qqNumber": "บัญชี QQ",
     "wechatNumber": "บัญชี Wechat",

@@ -92,6 +92,8 @@
     "msgRegisterWithdrawalPassInvalid": "The withdrawal password should be 6 digits",
     "msgRegisterWithdrawalPassMatchInvalid": "The withdrawal password must be the same as the confirmed withdrawal password",
     "msgAlreadyExist": "Username Already Exist",
+    "msgPlayerNotFound": "Player is not found in the system",
+    "msgVerificationCodeIncorrect": "Verification code is incorrect",
     "emailAddress": "Email",
     "qqNumber": "QQ Account",
     "wechatNumber": "Wechat Account",
