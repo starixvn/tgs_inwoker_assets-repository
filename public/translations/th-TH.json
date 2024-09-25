@@ -189,10 +189,10 @@
     "withdraw": "ถอนเงิน",
     "transaction": "ธุรกรรม",
     "bethistory": "ประวัติการเดิมพัน",
-    "accountinfo": "(th-TH)-account info",
+    "accountinfo": "บัญชี",
     "logout": "ออกจากระบบ",
     "or": "หรือ",
-    "bebacksoon": "(th-TH)-be back soon",
+    "bebacksoon": "กลับมาเร็วๆ นี้",
     "loadmore": "โหลดเพิ่มเติม",
     "new": "ใหม่",
     "favorite": "รายการโปรด",
@@ -201,15 +201,24 @@
     "shown": "แสดง",
     "of": "จาก",
     "searchkeyword": "ค้นหาคำสำคัญ",
-    "allProviders": "All Providers",
-    "providers": "Providers",
-    "showNumberMore": "Show {{numberMore}} more",
-    "showNumberOfTotal": "Show {{number}} of {{total}} games",
+    "allProviders": "ผู้ให้บริการทั้งหมด",
+    "providers": "ผู้ให้บริการ",
+    "showNumberMore": "แสดงเพิ่มเติม {{numberMore}} more",
+    "showNumberOfTotal": "แสดง {{number}} จาก {{total}} เกมส์",
     "withdrawalEWalletName": "(TH) E-Wallet Holder Name",
     "withdrawalEWalletId": "(TH) E-Wallet ID",
     "msgWithdrawalEWalletName": "(TH) Please enter your E-Wallet holder name",
     "msgWithdrawalEWalletId": "(TH) Please enter your E-Wallet ID",
-    "msgEWalletIdNoReachMin": "(TH) The E-Wallet ID is set to 8 to {maxlength} digits"
+    "msgEWalletIdNoReachMin": "(TH) The E-Wallet ID is set to 8 to {maxlength} digits",
+    "accountBalance": "ยอดเงินคงเหลือในบัญชี",
+    "totalDeposit": "ยอดเงินฝากทั้งหมด",
+    "totalBetAmount": "จำนวนเงินเดิมพันทั้งหมด",
+    "profileSettings": "การตั้งค่าโปรไฟล์",
+    "dateOfBirth": "วันเกิด",
+    "enterYourRealName": "กรอกชื่อจริงของคุณ",
+    "identificationNumber": "หมายเลขประจำตัวประชาชน",
+    "uploadFile": "อัพโหลดไฟล์",
+    "transactions": "เพิ่มบัญชีอื่น ๆ"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",
@@ -302,8 +311,8 @@
     "transferAccount": "โอนบัญชี",
     "accName": "ชื่อบัญชี",
     "cardNum": "หมายเลขบัญชี",
-    "yourbankaccountinfo": "(th-TH)-Your bank account info",
-    "msgPlsEnterBankAccount": "(th-TH)-Please enter the bank account number",
+    "yourbankaccountinfo": "ข้อมูลบัญชีธนาคารของคุณ",
+    "msgPlsEnterBankAccount": "กรุณาป้อนหมายเลขบัญชีธนาคาร",
     "promotion": "โปรโมชั่น",
     "msgPlsSelectPromotion": "กรุณาเลือกโปรโมชั่น",
     "senderName": "ชื่อบัญชีโอนเงิน",
@@ -970,7 +979,7 @@
       "promoteCode": "รหัสคำเชิญ (ไม่บังคับ)",
       "contract": "ฉันยืนยันว่าฉันอายุเกิน 18 ปีและได้อ่านและยอมรับนโยบาย คำชี้แจงสิทธิ์ส่วนบุคคล ข้อกำหนดและเงื่อนไขของเว็บไซต์นี้แล้ว",
       "contractWithAge": "ฉันยืนยันว่าฉันอายุเกิน {age} ปีและได้อ่านและยอมรับนโยบาย คำชี้แจงสิทธิ์ส่วนบุคคล ข้อกำหนดและเงื่อนไขของเว็บไซต์นี้แล้ว",
-      "useragreement": "(th-TH)-I agree to the User Agreement & confirm I am at least 18 years old",
+      "useragreement": "ฉันยอมรับข้อตกลงผู้ใช้และยืนยันว่าฉันมีอายุอย่างน้อย 18 ปี",
       "btn": "ลงทะเบียนเลย",
       "activation": "การยืนยันทาง SMS",
       "email": "Email Address",
@@ -1757,10 +1766,8 @@
   "zalo_invalid": "บัญชี Zalo ไม่ถูกต้อง",
   "zalo_toEdit": "หากต้องการแก้ไขบัญชี Zalo กรุณาคลิกที่",
   "here": "ที่นี่",
-
   "second": "วินาที",
   "platform": "เว็บไซต์",
-
   "security": "ความปลอดภัย",
   "message": "ข้อความ",
   "announcement": "ประกาศ",
@@ -1771,7 +1778,6 @@
   "signout": "ออกจากระบบ",
   "click_download": "คลิกเพื่อดาวน์โหลด",
   "copy_link": "คัดลอกลิงค์",
-
   "pleaseenter": "กรุณากรอก",
   "memo": "หมายเหตุ",
   "compose": "สร้าง",
@@ -1787,14 +1793,12 @@
   "sentBy": "ส่งโดย",
   "yourmessage": "ข้อความของคุณ",
   "originalmessage": "ข้อความเดิม",
-
   "onlinechat": "แชทออนไลน์",
   "collect": "เก็บ",
   "create": "สร้าง",
   "gameEntrance": "ทางเข้าเกม",
   "timeToPlay": "เวลาเล่น",
   "showAllGames": "แสดงเกมทั้งหมด",
-
   "news": "ข่าว",
   "myfavorite": "รายการโปรดของฉัน",
   "myfavoriteDescription1": "ยังไม่มีคอลเลกชัน",
@@ -1810,21 +1814,15 @@
   "enterGame": "เข้าสู่เกม",
   "balanceChange": "บันทึกการเปลี่ยนแปลงบัญชี",
   "shortCockfight": "การชนไก่",
-
   "confirmSubmit": "ยืนยันการส่ง",
-
   "ifsc": "รหัส IFSC",
-
   "selectBank": "เลือกธนาคาร",
-
   "donotshowagainfortoday": "อย่าแสดงอีกสำหรับวันนี้",
-
   "alltimefavourite": "เกมยอดนิยมตลอดกาล",
   "bestlivecasino": "คาสิโนสดที่ดีที่สุด",
   "followus": "ติดตามเรา",
   "downloadapp": "ดาวน์โหลดแอพ",
   "justwon": "เพิ่งชนะ",
-
   "introduction": "บทนำ",
   "introdesc": "แอปคาสิโนบนมือถือ {brandName} ถ่ายโอนพลังทั้งหมดของเว็บไซต์ของเรามาไว้เพียงปลายนิ้วคุณ เราพร้อมใช้งานสำหรับ iOS และ Android ที่มีเกมเพื่อความบันเทิงมากมาย",
   "compatible": "เข้ากันได้",
@@ -1835,29 +1833,23 @@
   "extensivedesc": "เข้าถึงเกมมากกว่า 1,000+ เกม รวมถึงการเดิมพันกีฬาและอื่นๆ อีกมากมาย",
   "convenient": "สะดวก",
   "convenientdesc": "อินเทอร์เฟซที่เป็นมิตรต่อผู้ใช้ เรียบง่าย ชัดเจน และน่าดึงดูดอย่างยิ่ง",
-
   "createaccount": "สร้างบัญชี",
   "reenterpassword": "ป้อนรหัสผ่านอีกครั้ง",
   "customerservice724": "บริการลูกค้าตลอด 24 ชั่วโมง 7 วัน",
-
   "affiliateprogram": "{brandName} โปรแกรมพันธมิตร",
   "affiliateprogramdesc": "คาสิโนออนไลน์ {brandName} เป็นที่รู้จักกันดีในเรื่องของเกมที่มีให้เลือกมากมาย และด้วยโปรแกรมพันธมิตร {brandName} คุณสามารถแบ่งปันในความสำเร็จของคาสิโนไปพร้อมๆ กับเพิ่มรายได้ของคุณ \n มาเป็นพันธมิตรได้ฟรี แบ่งปัน ความกระตือรือร้นในคาสิโนของคุณและสร้างรายได้ไปพร้อมกัน ความสำเร็จของคุณอยู่ในมือของคุณ!",
   "becomeaffiliatenow": "มาเป็นพันธมิตรทันที",
-
   "hotgames": "เกมยอดนิยม",
   "newgames": "เกมใหม่",
   "recommended": "แนะนำ",
   "todaysspecial": "สินค้าพิเศษวันนี้",
   "more": "เพิ่มเติม",
-
   "addcardsuccesstitle": "บัตรธนาคารของคุณถูกเพิ่มเรียบร้อยแล้ว",
   "addcardsuccessdesc": "ยินดีด้วย! บัตรธนาคารของคุณถูกเพิ่มแล้ว คุณสามารถทำการถอนเงินด้วยบัตรนี้ได้แล้ว หากคุณต้องการเพิ่มบัตรอื่นๆ โปรดคลิกที่ 'เพิ่มบัตรอื่น' ด้านล่าง",
   "addanothercard": "เพิ่มบัตรอื่น",
-
   "balancechangereport": "บันทึกการเปลี่ยนแปลงบัญชี",
   "activityreport": "บันทึกกิจกรรม",
   "undermaintenance": "ระบบอยู่ระหว่างการปรับปรุง",
-
   "movn2_addcardsuccess": "ขอแสดงความยินดี! บัตรธนาคารของคุณถูกเพิ่มแล้ว ตอนนี้คุณสามารถถอนเงินด้วยบัตรใบนี้ได้ หากคุณต้องการแก้ไขบัตรของคุณ โปรดติดต่อฝ่ายบริการลูกค้า",
   "t29": {
     "wagering": "Wagering",

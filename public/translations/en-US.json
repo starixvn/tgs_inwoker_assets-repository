@@ -210,7 +210,16 @@
     "withdrawalEWalletId": "E-Wallet ID",
     "msgWithdrawalEWalletName": "Please enter your E-Wallet holder name",
     "msgWithdrawalEWalletId": "Please enter your E-Wallet ID",
-    "msgEWalletIdNoReachMin": "The E-Wallet ID is set to 8 to {maxlength} digits"
+    "msgEWalletIdNoReachMin": "The E-Wallet ID is set to 8 to {maxlength} digits",
+    "accountBalance": "Account Balance",
+    "totalDeposit": "Total Deposit",
+    "totalBetAmount": "Total Bet Amount",
+    "profileSettings": "Profile Settings",
+    "dateOfBirth": "Date of Birth",
+    "enterYourRealName": "Enter your real name",
+    "identificationNumber": "Identification Number",
+    "uploadFile": "Upload File",
+    "transactions": "Transactions"
   },
   "affiliate": {
     "title": "Affiliate",
@@ -477,7 +486,7 @@
       "here": "Here"
     },
     "setted": "Configuration Completed",
-    "setNow": "Configure now",
+    "setNow": "Configure",
     "edit": "Edit",
     "notSet": "Not Set",
     "notVerify": "Not Verify",
