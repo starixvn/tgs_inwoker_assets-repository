@@ -2034,5 +2034,6 @@
     "list3": "3.The amount cannot be modified.",
     "list4": "4.If you do not use QR code scanning for payment, please enter the {matchCodeLength}-digit code in the transfer description of your bank app.",
     "expired": "The QR code is expired."
-  }
+  },
+  "PlayerIdNotVerify": "Please verify your identity first"
 }
