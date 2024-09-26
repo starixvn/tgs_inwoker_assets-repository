@@ -168,7 +168,7 @@
     "withdrawalBankType": "Type",
     "withdrawalChannel": "Channel",
     "withdrawalNumber": "Bank card number",
-    "msgEnterWithdrawalNumber": "Please enter bank card number",
+    "msgEnterWithdrawalNumber": "Please enter the Bank Card Number",
     "msgEmailExist": "Email address already exists",
     "msgRequiredTurnover": "Unable to withdraw. Please make sure you meet the wagering requirements, or contact Customer Service for further information.",
     "msgInvalidUsername": "Invalid username/ password.",
@@ -1360,7 +1360,7 @@
         "BankName": "Bank name",
         "msgEnterBankName": "Please enter bank name",
         "BankAccountName": "Bank holder name",
-        "msgEnterBankAccountName": "Please enter bank holder name"
+        "msgEnterBankAccountName": "Please enter the Bank Account Name"
       }
     }
   },
