@@ -371,7 +371,7 @@
     "msgAccName": "Please enter the Bank Account Name",
     "msgEWalletAccountName": "Please enter the E-Wallet Holder name",
     "msgEWalletAccountNumber": "Please enter your E-Wallet ID",
-    "msgAccNum": "Please enter the Bank Card Number",
+    "msgAccNum": "Please enter the the Bank Account Number",
     "yourEWalletAccountInfo": "Your E-Wallet account info"
   },
   "payment": {
