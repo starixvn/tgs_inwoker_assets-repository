@@ -167,7 +167,7 @@
     "joinGame": "Join game",
     "withdrawalBankType": "Type",
     "withdrawalChannel": "Channel",
-    "withdrawalNumber": "Bank card number",
+    "withdrawalNumber": "Account Number",
     "msgEnterWithdrawalNumber": "Please enter the bank account number",
     "msgEmailExist": "Email address already exists",
     "msgRequiredTurnover": "Unable to withdraw. Please make sure you meet the wagering requirements, or contact Customer Service for further information.",
@@ -1359,7 +1359,7 @@
       "addCard": {
         "BankName": "Bank name",
         "msgEnterBankName": "Please enter bank name",
-        "BankAccountName": "Bank holder name",
+        "BankAccountName": "Account Holder Name",
         "msgEnterBankAccountName": "Please enter the Bank Account Name"
       }
     }
