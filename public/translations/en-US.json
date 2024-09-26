@@ -78,6 +78,7 @@
     "msgEnterPhone": "Please enter your phone number",
     "msgEnterEmail": "Please enter your email",
     "msgInvalidEmail": "Invalid Email Address",
+    "msgInvalidPhone": "Invalid Phone",
     "msgEnterCode": "Please enter verification code",
     "msgEnterCodeEmail": "Please enter verification code",
     "msgEnterEmailCode": "Please enter the email verification code",

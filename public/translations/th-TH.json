@@ -76,6 +76,7 @@
     "msgEnterPhone": "กรุณากรอกหมายเลขโทรศัพท์มือถือของคุณ",
     "msgEnterEmail": "กรุณากรอกที่อยู่อีเมลของคุณ",
     "msgInvalidEmail": "ที่อยู่อีเมลไม่ถูกต้อง",
+    "msgInvalidPhone": "เบอร์โทรศัพท์ไม่ถูกต้อง",
     "msgEnterCode": "กรุณากรอกรหัสยืนยัน SMS",
     "msgEnterCodeEmail": "กรุณากรอกรหัสยืนยัน Email",
     "msgInvalidPhoneCode": "รหัสยืนยันผิดพลาด",
