@@ -369,7 +369,7 @@
     "eWalletAccount": "E-Wallet Holder Name",
     "eWalletAccountNumber": "E-Wallet ID",
     "msgAccName": "Please enter the bank account name",
-    "msgEWalletAccountName": "Please enter the E-Wallet Holder name",
+    "msgEWalletAccountName": "Please enter the E-Wallet Holder Name",
     "msgEWalletAccountNumber": "Please enter your E-Wallet ID",
     "msgAccNum": "Please enter the bank account number",
     "yourEWalletAccountInfo": "Your E-Wallet account info"
