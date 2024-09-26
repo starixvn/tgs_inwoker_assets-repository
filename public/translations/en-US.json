@@ -262,7 +262,7 @@
       "msgSelectBank": "Please enter bank",
       "BankName": "Bank Name",
       "msgEnterBankName": "Please enter bank name",
-      "BankAccountName": "Bank holder name",
+      "BankAccountName": "Account Holder Name",
       "msgEnterBankAccountName": "Please enter the bank account name",
       "msgEnterCard": "Please enter the bank account number",
       "cardHolder": "Bank holder Name",
