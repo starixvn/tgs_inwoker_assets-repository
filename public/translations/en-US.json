@@ -319,7 +319,7 @@
     "transferAccount": "Transfer account",
     "accName": "Account Holder Name",
     "cardNum": "Account Number",
-    "yourbankaccountinfo": "Your bank account info",
+    "yourbankaccountinfo": "Your Bank Account Info",
     "msgPlsEnterBankAccount": "Please enter the bank account number",
     "promotion": "Promotion ",
     "msgPlsSelectPromotion": "Please select promotion",
@@ -372,7 +372,7 @@
     "msgEWalletAccountName": "Please enter the E-Wallet Holder Name",
     "msgEWalletAccountNumber": "Please enter your E-Wallet ID",
     "msgAccNum": "Please enter the bank account number",
-    "yourEWalletAccountInfo": "Your E-Wallet account info"
+    "yourEWalletAccountInfo": "Your E-Wallet Account Info"
   },
   "payment": {
     "provider": "Payment Service Provider",
