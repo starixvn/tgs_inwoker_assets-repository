@@ -370,7 +370,8 @@
     "msgEWalletAccountName": "(th-TH) Please enter E-Wallet Holder name",
     "msgEWalletAccountNumber": "(th-TH) Please enter E-Wallet ID",
     "msgAccNum": "(th-TH) Please enter account number",
-    "yourEWalletAccountInfo": "(th-TH) Your E-Wallet account info"
+    "yourEWalletAccountInfo": "(th-TH) Your E-Wallet account info",
+    "msgDepositCompleted": "(th-TH) The deposit transaction has been completed in payment gateway."
   },
   "payment": {
     "provider": "(th-TH) Payment Service Provider",

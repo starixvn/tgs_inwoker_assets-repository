@@ -372,7 +372,8 @@
     "msgEWalletAccountName": "Please enter the E-Wallet Holder Name",
     "msgEWalletAccountNumber": "Please enter your E-Wallet ID",
     "msgAccNum": "Please enter the bank account number",
-    "yourEWalletAccountInfo": "Your E-Wallet Account Info"
+    "yourEWalletAccountInfo": "Your E-Wallet Account Info",
+    "msgDepositCompleted": " The deposit transaction has been completed in payment gateway."
   },
   "payment": {
     "provider": "Payment Service Provider",
