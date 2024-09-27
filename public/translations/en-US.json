@@ -95,6 +95,7 @@
     "msgAlreadyExist": "Username Already Exist",
     "msgPlayerNotFound": "Player is not found in the system",
     "msgVerificationCodeIncorrect": "Verification code is incorrect",
+    "msgInvalidIC": "The IC number must be 13 digits long",
     "emailAddress": "Email",
     "qqNumber": "QQ Account",
     "wechatNumber": "Wechat Account",
