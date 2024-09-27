@@ -663,7 +663,7 @@
     "depositChannel": "Channel",
     "withdrawal": {
       "bankCard": "Bank Account",
-      "status1": "Withdrawal Pending",
+      "status1": "Pending",
       "status2": "Processing",
       "status3": "Approved",
       "status4": "Rejected",
@@ -671,7 +671,7 @@
       "status6": "Paid"
     },
     "deposit": {
-      "status1": "Deposit Pending",
+      "status1": "Pending",
       "status2": "Processing",
       "status3": "Approved",
       "status4": "Rejected"
