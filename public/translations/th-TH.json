@@ -835,6 +835,7 @@
       "Section1GameProviders": "ผู้ให้บริการ",
       "Section1HotGames": "เกมส์ฮอต",
       "Section1RecentBigWins": "ชัยชนะครั้งใหญ่ครั้งล่าสุด",
+      "highlightMatches": "Highlight Matches",
       "services": {
         "service1": {
           "title": "เวลาฝากเฉลี่ย",

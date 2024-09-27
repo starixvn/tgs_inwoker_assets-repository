@@ -837,6 +837,7 @@
       "Section1GameProviders": "Providers",
       "Section1HotGames": "Hot Games",
       "Section1RecentBigWins": "Recent Big Wins",
+      "highlightMatches": "Highlight Matches",
       "services": {
         "service1": {
           "title": "Average Deposit Time",
