@@ -662,7 +662,7 @@
     "depositChannel": "วิธีการชำระเงิน",
     "withdrawal": {
       "bankCard": "เลือกธนาคาร",
-      "status1": "กำลังรอการชำระเงิน",
+      "status1": "รอดำเนินการ",
       "status2": "อยู่ระหว่างการอนุมัติ",
       "status3": "ผ่าน",
       "status4": "ถูกปฏิเสธ",
@@ -670,7 +670,7 @@
       "status6": "ชำระเงินแล้ว"
     },
     "deposit": {
-      "status1": "เงินฝากที่รอดำเนินการ",
+      "status1": "รอดำเนินการ",
       "status2": "อยู่ระหว่างการอนุมัติ",
       "status3": "ผ่าน",
       "status4": "ถูกปฏิเสธ"
@@ -1295,15 +1295,40 @@
   "9WCRICKET": {
     "sports": "9WCRICKET"
   },
-  "AWC_FACAI": { "electron": "FACHAI", "slots": "FACHAI", "fish": "FACHAI" },
-  "FACHAI": { "electron": "FACHAI", "slots": "FACHAI", "fish": "FACHAI" },
-  "AWC_PGS": { "electron": "PGSoft", "slots": "PGSoft" },
-  "AWC_AWS": { "electron": "AWS", "slots": "AWS" },
-  "AWC_FS": { "slots": "Fast Spin" },
-  "AWC_YL": { "electron": "YL", "fish": "YL" },
-  "AWC_KM": { "electron": "KingMaker" },
-  "AWC_LUDO": { "electron": "LUDO" },
-  "AWC_AELOTTO": { "lottery": "AE" },
+  "AWC_FACAI": {
+    "electron": "FACHAI",
+    "slots": "FACHAI",
+    "fish": "FACHAI"
+  },
+  "FACHAI": {
+    "electron": "FACHAI",
+    "slots": "FACHAI",
+    "fish": "FACHAI"
+  },
+  "AWC_PGS": {
+    "electron": "PGSoft",
+    "slots": "PGSoft"
+  },
+  "AWC_AWS": {
+    "electron": "AWS",
+    "slots": "AWS"
+  },
+  "AWC_FS": {
+    "slots": "Fast Spin"
+  },
+  "AWC_YL": {
+    "electron": "YL",
+    "fish": "YL"
+  },
+  "AWC_KM": {
+    "electron": "KingMaker"
+  },
+  "AWC_LUDO": {
+    "electron": "LUDO"
+  },
+  "AWC_AELOTTO": {
+    "lottery": "AE"
+  },
   "TF": {
     "sports": "TF Gaming",
     "esports": "TF"
@@ -1468,18 +1493,15 @@
     "title": "ไม่พบบัตรในบัญชีของคุณ",
     "description": "โปรดติดต่อฝ่ายบริการลูกค้าเพื่อเพิ่มบัตรเพื่อเข้าสู่หน้าการถอนเงิน"
   },
-
   "hint": {
     "_099": "เปิดให้บริการเวลา (00:00-23:59 น.)"
   },
-
   "idr1": {
     "pleaseEnterAccountName": "กรุณาใส่ชื่อบัญชีของคุณ",
     "msgPlsSelectAccount": "กรุณาเลือกบัญชี",
     "eWalletAccount": "ชื่อเงินอิเล็กทรอนิกส์",
     "phone": "โทรศัพท์"
   },
-
   "pointless": {
     "download": "จุดดาวน์โหลดลิงค์ APP",
     "copy": "คัดลอก",
@@ -1752,7 +1774,6 @@
     "logintoCheck": "ตรวจสอบหลังจากเข้าสู่ระบบ",
     "serverStatus": "สถานะเซิร์ฟเวอร์"
   },
-
   "qq_account": "บัญชี QQ",
   "qq_invalid": "บัญชี QQ ไม่ถูกต้อง",
   "qq_toEdit": "หากต้องการแก้ไขบัญชี QQ กรุณาคลิกที่",
@@ -1872,14 +1893,11 @@
     "wageringrequirement": "Wagering Requirement",
     "main": "Main"
   },
-
   "remark": "หมายเหตุ",
-
   "sscnapoli": "SSC Napoli",
   "astonvilla": "Aston Villa",
   "laclipper": "LA Clippers",
   "officialpartners": "คู่ค้าทางการ",
-
   "agent": {
     "agentInfo": "Agent Info",
     "playerList": "Player List",
@@ -1961,7 +1979,6 @@
     "pageTotal": "Page total",
     "contribution": "Dividend Report"
   },
-
   "MOVN2": {
     "NET": "Local Bank",
     "DR": "Online Bank",
