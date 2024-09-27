@@ -222,7 +222,12 @@
     "enterYourRealName": "Enter your real name",
     "identificationNumber": "Identification Number",
     "uploadFile": "Upload File",
-    "transactions": "Transactions"
+    "transactions": "Transactions",
+    "open": "Open",
+    "void": "Void",
+    "won": "Won",
+    "lost": "Lost",
+    "draw": "Draw"
   },
   "affiliate": {
     "title": "Affiliate",

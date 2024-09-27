@@ -221,7 +221,12 @@
     "enterYourRealName": "กรอกชื่อจริงของคุณ",
     "identificationNumber": "หมายเลขประจำตัวประชาชน",
     "uploadFile": "อัพโหลดไฟล์",
-    "transactions": "เพิ่มบัญชีอื่น ๆ"
+    "transactions": "เพิ่มบัญชีอื่น ๆ",
+    "open": "เปิด",
+    "void": "โมฆะ",
+    "won": "ชนะ",
+    "lost": "แพ้",
+    "draw": "เสมอ"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",
