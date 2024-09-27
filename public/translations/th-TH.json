@@ -73,6 +73,8 @@
     "msgSendToken": "ส่งรหัสยืนยัน",
     "msgTokenSent": "ส่งรหัสยืนยันเรียบร้อยแล้ว",
     "msgTokenVerified": "ยืนยันสำเร็จ",
+    "msgUsernameRequired": "ชื่อผู้ใช้เป็นสิ่งจำเป็น",
+    "msgPasswordRequired": "รหัสผ่านเป็นสิ่งจำเป็น",
     "msgEnterPhone": "กรุณากรอกหมายเลขโทรศัพท์มือถือของคุณ",
     "msgEnterEmail": "กรุณากรอกที่อยู่อีเมลของคุณ",
     "msgInvalidEmail": "ที่อยู่อีเมลไม่ถูกต้อง",

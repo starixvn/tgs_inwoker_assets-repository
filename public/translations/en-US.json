@@ -75,6 +75,8 @@
     "msgSendToken": "Send Code",
     "msgTokenSent": "Verification code sent successfully",
     "msgTokenVerified": "Verified",
+    "msgUsernameRequired": "Username is required",
+    "msgPasswordRequired": "Password is required",
     "msgEnterPhone": "Please enter your phone number",
     "msgEnterEmail": "Please enter your email",
     "msgInvalidEmail": "Invalid Email Address",
