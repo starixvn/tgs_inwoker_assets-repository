@@ -230,7 +230,8 @@
     "void": "Void",
     "won": "Won",
     "lost": "Lost",
-    "draw": "Draw"
+    "draw": "Draw",
+    "betHistory": "Bet History"
   },
   "affiliate": {
     "title": "Affiliate",
