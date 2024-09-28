@@ -401,7 +401,8 @@
     "betAmount": "Bet Amount",
     "payout": "Payout",
     "betID": "Bet ID",
-    "playNow": "Play now"
+    "playNow": "Play now",
+    "multiplier": "Multiplier"
   },
   "inbox": {
     "title": "Message Center",

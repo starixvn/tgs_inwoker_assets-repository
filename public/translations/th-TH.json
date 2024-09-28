@@ -150,7 +150,7 @@
     "password": "รหัสผ่าน",
     "msgEnterUsername": "กรุณากรอกชื่อผู้ใช้ของคุณ",
     "msgEnterPassword": "กรุณากรอกรหัสผ่าน",
-    "deposit": "ฝาก",
+    "deposit": "ฝากเงิน",
     "withdrawal": "ถอนเงิน",
     "transfer": "โอน",
     "info": "เตือนความจำ",
@@ -395,12 +395,13 @@
     "updateSuccess": "รีเซ็ตรหัสผ่านสำเร็จ"
   },
   "betSlip": {
-    "title": "Bet Slip",
-    "profit": "Profit",
-    "betAmount": "Bet Amount",
-    "payout": "Payout",
-    "betID": "Bet ID",
-    "playNow": "Play now"
+    "title": "สลิปเดิมพัน",
+    "profit": "กำไร",
+    "betAmount": "จำนวนเงินเดิมพัน",
+    "payout": "การจ่ายเงิน",
+    "betID": "รหัสเดิมพัน",
+    "playNow": "เล่นตอนนี้",
+    "multiplier": "ตัวคูณ"
   },
   "inbox": {
     "title": "ศูนย์ข้อความ",
@@ -446,7 +447,7 @@
         "setting": "ตั้งค่า",
         "signout": "ออกจากระบบ",
         "wallet": "กระเป๋าสตางค์",
-        "deposit": "ฝาก",
+        "deposit": "ฝากเงิน",
         "withdrawal": "ถอนเงิน",
         "transfer": "โอน"
       },
@@ -483,7 +484,7 @@
         "profile": "ข้อมูลของฉัน"
       },
       "menuDrawer": {
-        "deposit": "ฝาก",
+        "deposit": "ฝากเงิน",
         "withdrawal": "ถอนเงิน",
         "transfer": "โอน",
         "transReport": "บันทึกการทำธุรกรรม",
