@@ -210,12 +210,12 @@
     "providers": "ผู้ให้บริการ",
     "showNumberMore": "แสดงเพิ่มเติม {{numberMore}} more",
     "showNumberOfTotal": "แสดง {{number}} จาก {{total}} เกมส์",
-    "withdrawalEWalletName": "(TH) E-Wallet Holder Name",
-    "withdrawalEWalletId": "(TH) E-Wallet ID",
-    "msgWithdrawalEWalletName": "(TH) Please enter your E-Wallet holder name",
-    "msgWithdrawalEWalletId": "(TH) Please enter your E-Wallet ID",
-    "msgEWalletIdNoReachMin": "(TH) The E-Wallet ID is set to 8 to {maxlength} digits",
-    "optional": "((th-TH) optional)",
+    "withdrawalEWalletName": "ชื่อผู้ถือบัญชี E-Wallet",
+    "withdrawalEWalletId": "รหัส E-Wallet",
+    "msgWithdrawalEWalletName": "โปรดป้อนชื่อเงินอิเล็กทรอนิกส์",
+    "msgWithdrawalEWalletId": "กรุณากรอก ID ของ E-Wallet",
+    "msgEWalletIdNoReachMin": "เบอร์มือถือตั้งไว้ที่ 8 ถึง {{maxlength}} หลัก",
+    "optional": "(ตัวเลือก)",
     "accountBalance": "ยอดเงินคงเหลือในบัญชี",
     "totalDeposit": "ยอดเงินฝากทั้งหมด",
     "totalBetAmount": "จำนวนเงินเดิมพันทั้งหมด",
@@ -224,7 +224,7 @@
     "enterYourRealName": "กรอกชื่อจริงของคุณ",
     "identificationNumber": "หมายเลขประจำตัวประชาชน",
     "uploadFile": "อัพโหลดไฟล์",
-    "transactions": "เพิ่มบัญชีอื่น ๆ",
+    "transactions": "ธุรกรรมการโอน",
     "open": "เปิด",
     "void": "โมฆะ",
     "won": "ชนะ",
@@ -253,10 +253,10 @@
     "title": "แก้ไขธนาคาร",
     "myCard": "บัตรธนาคารของฉัน",
     "tail": "เลขท้าย",
-    "type": "(TH) Type",
-    "brand": "(TH) Brand",
-    "number": "(TH) Account Number",
-    "selectYourBankAccount": "(TH) Select Your Bank Account",
+    "type": "ประเภท",
+    "brand": "แบรนด์",
+    "number": "หมายเลขบัญชี",
+    "selectYourBankAccount": "กรุณาเลือกบัญชีธนาคาร",
     "transferRecord": "บันทึกการโอน",
     "removeCard": "ถอดการ์ด",
     "checkDetails": "ตรวจสอบ",
@@ -271,9 +271,9 @@
       "msgSelectBank": "กรุณาป้อนธนาคาร",
       "msgEnterCard": "กรุณากรอกหมายเลขบัตรธนาคาร",
       "BankName": "ธนาคาร",
-      "msgEnterBankName": "กรุณากรอกธนาคาร",
+      "msgEnterBankName": "กรุณากรอกชื่อบัญชีธนาคาร",
       "BankAccountName": "ชื่อบัญชีธนาคาร",
-      "msgEnterBankAccountName": "กรุณากรอกชื่อบัญชีธนาคาร",
+      "msgEnterBankAccountName": "โปรดป้อนชื่อบัญชีธนาคาร",
       "cardHolder": "ผู้ถือบัตร",
       "msgEnterCardHolder": "กรุณากรอกชื่อผู้ถือบัตร",
       "cardNum": "หมายเลขบัตรธนาคาร",
@@ -287,7 +287,7 @@
     },
     "success": {
       "title": "เพิ่มบัตรธนาคารเรียบร้อยแล้ว",
-      "addOtherAccount": "(th-TH) Add Other Account",
+      "addOtherAccount": "เพิ่มบัญชีอื่น ๆ",
       "successDesc": "ยินดีด้วย คุณได้ทำการผูกบัตรธนาคารเรียบร้อยแล้ว คุณสามารถเลือกบัตรธนาคารของคุณได้อย่างรวดเร็วเมื่อคุณถอนเงินในภายหลัง หากคุณต้องการผูกบัตรธนาคารอื่นๆ",
       "successDescDeposit": "ยินดีด้วย คุณได้ทำการผูกบัตรธนาคารเรียบร้อยแล้ว ",
       "bindDesc": "โปรดคลิก 'ผูกบัตรธนาคารอื่น' ด้านล่างเพื่อดำเนินการอีกครั้ง",
@@ -326,7 +326,7 @@
     "depositMethod": "วิธีการชำระเงิน",
     "depositTunnel": "ช่องทางการชำระเงิน",
     "transferAccount": "โอนบัญชี",
-    "accName": "ชื่อบัญชี",
+    "accName": "ชื่อเจ้าของบัญชี",
     "cardNum": "หมายเลขบัญชี",
     "yourbankaccountinfo": "ข้อมูลบัญชีธนาคารของคุณ",
     "msgPlsEnterBankAccount": "กรุณาป้อนหมายเลขบัญชีธนาคาร",
@@ -375,19 +375,19 @@
     "plsEnterUSDTAmount": "กรุณากรอกจำนวนเงิน USDT",
     "playerNote": "หมายเหตุผู้เล่น",
     "plsEnterPlayerNote": "กรุณาใส่หมายเหตุผู้เล่น",
-    "eWalletAccountNumber": "(th-TH) E-Wallet ID",
-    "msgAccName": "(th-TH) Please enter account name",
-    "msgEWalletAccountName": "(th-TH) Please enter E-Wallet Holder name",
-    "msgEWalletAccountNumber": "(th-TH) Please enter E-Wallet ID",
-    "msgAccNum": "(th-TH) Please enter account number",
-    "yourEWalletAccountInfo": "(th-TH) Your E-Wallet account info",
-    "msgDepositCompleted": "(th-TH) The deposit transaction has been completed in payment gateway."
+    "eWalletAccountNumber": "รหัส E-Wallet",
+    "msgAccName": "โปรดป้อนชื่อบัญชีธนาคาร",
+    "msgEWalletAccountName": "โปรดป้อนชื่อเงินอิเล็กทรอนิกส์",
+    "msgEWalletAccountNumber": "กรุณากรอก ID ของ E-Wallet",
+    "msgAccNum": "โปรดป้อนหมายเลขบัญชีธนาคาร",
+    "yourEWalletAccountInfo": "ข้อมูลบัญชี E-Wallet ของคุณ",
+    "msgDepositCompleted": "ธุรกรรมการฝากเงินเสร็จสมบูรณ์ในเกตเวย์การชำระเงินแล้ว"
   },
   "payment": {
-    "provider": "(th-TH) Payment Service Provider",
-    "method": "(th-TH) Payment Method",
-    "channel": "(th-TH) Payment Channel",
-    "msgWithdrawalRequestSuccess": "(th-TH) Withdrawal Request Successful"
+    "provider": "ผู้ให้บริการชำระเงิน",
+    "method": "วิธีการชำระเงิน",
+    "channel": "ช่องทางการชำระเงิน",
+    "msgWithdrawalRequestSuccess": "คำขอถอนเงินสำเร็จ"
   },
   "forgotPassword": {
     "title": "ลืมรหัสผ่าน",
@@ -669,7 +669,7 @@
     "transferIn": "โอนเข้า",
     "OrderNumber": "หมายเลขคำสั่งซื้อ",
     "NewOrderNumber": "หมายเลขคำสั่งซื้อ GMS",
-    "depositChannel": "วิธีการชำระเงิน",
+    "depositChannel": "ช่อง",
     "withdrawal": {
       "bankCard": "เลือกธนาคาร",
       "status1": "รอดำเนินการ",
@@ -773,8 +773,8 @@
     "transferFrom": "โปรดเลือกโอนจาก wallet",
     "transferFromWallet": "โอนจาก Wallet",
     "pleaseSelect": "กรุณาเลือก",
-    "transferTo": "โปรดเลือกโอนไปยังกระเป๋าเงิน",
-    "transferToWallet": "โอนไปยัง Wallet",
+    "transferTo": "โอนไปยัง",
+    "transferToWallet": "โอนไปยัง",
     "msgEnterAmount": "กรุณากรอกจำนวนเงินที่โอน",
     "maxAmount": "จำนวนเงินสูงสุด",
     "transfer": "โอน",
@@ -811,8 +811,8 @@
     "usdtAmount": "USDT จำนวนเงินเข้าบัญชี",
     "playerNote": "หมายเหตุผู้เล่น",
     "plsEnterPlayerNote": "กรุณาใส่หมายเหตุผู้เล่น",
-    "amount": "(th-TH) Withdrawal amount",
-    "addNewAccount": "(th-TH) Add New Account"
+    "amount": "จำนวนเงินที่ถอน",
+    "addNewAccount": "เพิ่มบัญชีใหม่"
   },
   "promotion": {
     "emptyLine1": "ไม่มีกิจกรรมในขณะนี้",
@@ -845,7 +845,9 @@
       "Section1GameProviders": "ผู้ให้บริการ",
       "Section1HotGames": "เกมส์ฮอต",
       "Section1RecentBigWins": "ชัยชนะครั้งใหญ่ครั้งล่าสุด",
-      "highlightMatches": "Highlight Matches",
+      "highlightMatches": "แมตช์เด่น",
+      "latestBets": "เดิมพันล่าสุด",
+      "liveMatches": "การแข่งขันสด",
       "services": {
         "service1": {
           "title": "เวลาฝากเฉลี่ย",
@@ -958,15 +960,15 @@
       "policies": "นโยบาย",
       "aboutus": "เกี่ยวกับ",
       "livesupport": "การสนับสนุนไลฟ์สด",
-      "allrightsreserverd": "© 2024 Nova88 Solutions. All Rights Reserved. 18+",
-      "paymentMethod": "Payment Method",
-      "rulesAndRegulation": "Rules and Regulations",
-      "accountTerms": "Account Terms",
-      "faq": "FAQ",
-      "termAndConditions": "เงี่อนไขและกติกา",
-      "responsibleGaming": "Responsible Gaming",
-      "privacyPolicy": "Privacy Policy",
-      "cookiePolicy": "Cookie Policy"
+      "allrightsreserverd": "© 2024 Nova88 Solutions. สงวนลิขสิทธิ์. 18+",
+      "paymentMethod": "วิธีการชำระเงิน",
+      "rulesAndRegulation": "กฎและข้อบังคับ",
+      "accountTerms": "ข้อกำหนดบัญชี",
+      "faq": "คำถามที่พบบ่อย",
+      "termAndConditions": "ข้อกำหนดและเงื่อนไข",
+      "responsibleGaming": "เล่นเกมอย่างรับผิดชอบ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "cookiePolicy": "นโยบายคุกกี้"
     },
     "login": {
       "login": "เข้าสู่ระบบ",
@@ -1059,11 +1061,11 @@
   "LeePay": "LeePay",
   "ApplePay": "ApplePay",
   "UmPay": "PlayPay",
-  "Manual": "ฝากผ่านธนาคาร",
+  "Manual": "คู่มือ",
   "Crypto": "สกุลเงินเสมือน",
   "BankTransfer": "การโอนเงินผ่านธนาคาร",
   "EWallet": "กระเป๋าเงินอิเล็กทรอนิกส์",
-  "Bank": "(th-TH) Bank",
+  "Bank": "ธนาคาร",
   "ThirdParty": "บุคคลที่สาม",
   "CustomBank": "ธนาคารที่กำหนดเอง",
   "VR": {
@@ -1362,7 +1364,7 @@
   },
   "idr": {
     "withdrawalNumber": "หมายเลขบัตรธนาคาร",
-    "msgEnterWithdrawalNumber": "โปรดป้อนหมายเลขบัตรธนาคาร"
+    "msgEnterWithdrawalNumber": "โปรดป้อนหมายเลขบัญชีธนาคาร"
   },
   "hk28": {
     "withdrawalNumber": "หมายเลขบัตรธนาคาร/ที่อยู่สกุลเงิน Crypto",
@@ -1370,8 +1372,8 @@
     "card": {
       "addCard": {
         "BankName": "ธนาคาร",
-        "msgEnterBankName": "กรุณากรอกธนาคาร",
-        "BankAccountName": "ชื่อบัญชีธนาคาร",
+        "msgEnterBankName": "กรุณากรอกชื่อบัญชีธนาคาร",
+        "BankAccountName": "ชื่อเจ้าของบัญชี",
         "msgEnterBankAccountName": "กรุณากรอกชื่อบัญชีธนาคาร"
       }
     }
@@ -1608,8 +1610,8 @@
   },
   "extended": {
     "name": "ชื่อบัญชี",
-    "phone": "(th-TH) E-Wallet ID",
-    "eMoneyName": "(th-TH) E-Wallet Holder Name",
+    "phone": "รหัส E-Wallet",
+    "eMoneyName": "ชื่อผู้ถือบัญชี E-Wallet",
     "bankAccount": "หมายเลขบัญชี",
     "address": "ที่อยู่",
     "fpsId": "รหัส FPS",
@@ -1634,7 +1636,7 @@
   "T13": {
     "footer": {
       "copyright": "{brand} ลิขสิทธิ์© 2020 {brand} Casino Co.Group",
-      "rights": "สงวนลิขสิทธิ์"
+      "rights": "สงวนลิขสิทธิ์ทั้งหมด."
     },
     "socials": {
       "fb_title": "Facebook",
@@ -2003,7 +2005,7 @@
     "remainingTime": "Remaining Time",
     "accountNumber": "Account Number",
     "bank": "Bank",
-    "accountName": "Account Name",
+    "accountName": "ชื่อบัญชี",
     "recordingContent": "Recording Content (Important)",
     "warn": "This QR code is a one-time use code and is only valid for this transaction. If you use it for multiple payments causing any loss, the company will not be responsible.",
     "download": "Download QR Code",
@@ -2014,5 +2016,5 @@
     "list4": "4.If you do not use QR code scanning for payment, please enter the {matchCodeLength}-digit code in the transfer description of your bank app.",
     "expired": "The QR code is expired."
   },
-  "PlayerIdNotVerify": "Please verify your identity first"
+  "PlayerIdNotVerify": "กรุณายืนยันตัวตนของคุณก่อน"
 }
