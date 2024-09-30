@@ -167,6 +167,7 @@
     "startGame": "START",
     "cs": "CHAT",
     "msgSuccessUpdateProfile": "Profile updated succesfully",
+    "msgSuccessRegister": "Sign up successfully",
     "favoriteGame": "Add to Favorites",
     "joinGame": "Join game",
     "withdrawalBankType": "Type",
