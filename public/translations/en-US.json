@@ -848,7 +848,6 @@
       "Section1HotGames": "Hot Games",
       "Section1RecentBigWins": "Recent Big Wins",
       "highlightMatches": "Highlight Matches",
-      "latestBets": "Latest Bets",
       "liveMatches": "Live Matches",
       "services": {
         "service1": {
@@ -970,6 +969,13 @@
       "responsibleGaming": "Responsible Gaming",
       "privacyPolicy": "Privacy Policy",
       "cookiePolicy": "Cookie Policy"
+    },
+    "latestBets": {
+      "title": "Latest Bets",
+      "game": "Game",
+      "user": "User",
+      "multiplier": "Multiplier",
+      "payout": "Payout"
     },
     "login": {
       "login": "Login",
