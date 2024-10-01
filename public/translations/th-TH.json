@@ -975,7 +975,8 @@
       "game": "Game",
       "user": "User",
       "multiplier": "Multiplier",
-      "payout": "Payout"
+      "payout": "Payout",
+      "time": "Time"
     },
     "login": {
       "login": "เข้าสู่ระบบ",
