@@ -89,7 +89,7 @@
     "msgInvalidPhoneCode": "Verification code error",
     "msgInvalidConfirmPass": "The confirm password does not match",
     "msgInvalidOldPass": "Invalid Old Password",
-    "msgRegisterUserNameInvalid": "The account length must be between 6 to 16 characters with numbers or lowercase letters.",
+    "msgRegisterUserNameInvalid": "The account length must be between 6 and 16 characters or digits.",
     "msgRegisterPassInvalid": "The password length must be between 6 and 20 digits",
     "msgRegisterPassMatchInvalid": "The password must be the same as the confirmed password",
     "msgRegisterTermAndCondition": "Please confirm you’ve read our terms and conditions",
@@ -395,7 +395,7 @@
     "title": "Forgot Password",
     "plsEnterPhoneNumber": "Please enter phone number",
     "invalidConfirmPass": "Confirm password not match",
-    "updateSuccess": "Password reset successful."
+    "updateSuccess": "Reset password successfully"
   },
   "betSlip": {
     "title": "Bet Slip",
