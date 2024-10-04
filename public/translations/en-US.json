@@ -502,7 +502,7 @@
   "profile": {
     "birthdate": {
       "title": "Birth Date",
-      "toEdit": "If Required To Edit Birth Date, Please Click ",
+      "toEdit": "If you need to edit your real name, please click ",
       "here": "Here"
     },
     "setted": "Configuration Completed",
@@ -540,7 +540,7 @@
       "msgInvalidICNum": "Invalid ID number",
       "msgPlsEnterName": "Please enter your real name",
       "msgPlsEnterICNum": "Please enter your ID number",
-      "toEdit": "If Required to Edit Real Name, Please Click ",
+      "toEdit": "If you need to edit your real name, please click",
       "verifyName": "Real Name Verify",
       "tips": "Tips:  Real name needs to be same as withdrawal bank name to withdraw money"
     },
