@@ -187,7 +187,8 @@
     "qq": "Akun QQ",
     "donotshowagain": "Jangan tampilkan lagi",
     "hello": "Halo",
-    "wagering": "rollover"
+    "wagering": "rollover",
+    "authenticateFailed": "Autentikasi gagal"
   },
   "affiliate": {
     "title": "Afiliasi",

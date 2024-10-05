@@ -193,7 +193,8 @@
     "qq": "QQ账号",
     "donotshowagain": "不再显示",
     "hello": "Hello",
-    "wagering": "流水"
+    "wagering": "流水",
+    "authenticateFailed": "认证失败"
   },
   "affiliate": {
     "title": "推广赚钱",

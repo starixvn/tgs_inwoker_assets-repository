@@ -188,7 +188,8 @@
     "donotshowagain": "Không hiển thị nữa",
     "hello": "Hello",
     "wagering": "Yêu cầu tiền cược",
-    "all": "Tất cả"
+    "all": "Tất cả",
+    "authenticateFailed": "Xác thực thất bại"
   },
   "affiliate": {
     "title": "Khuyến mãi",

@@ -232,7 +232,8 @@
     "won": "Won",
     "lost": "Lost",
     "draw": "Draw",
-    "betHistory": "Bet History"
+    "betHistory": "Bet History",
+     "authenticateFailed": "Authentication failed"
   },
   "affiliate": {
     "title": "Affiliate",

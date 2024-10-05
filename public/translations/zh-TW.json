@@ -193,7 +193,8 @@
     "qq": "QQ賬號",
     "donotshowagain": "不再顯示",
     "hello": "Hello",
-    "wagering": "流水"
+    "wagering": "流水",
+    "authenticateFailed": "認證失敗"
   },
   "affiliate": {
     "title": "推廣賺錢",
