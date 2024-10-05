@@ -96,7 +96,7 @@
     "msgAlreadyExist": "มีชื่อผู้ใช้นี้แล้ว",
     "msgPlayerNotFound": "ไม่พบผู้เล่นในระบบ",
     "msgVerificationCodeIncorrect": "รหัสตรวจสอบไม่ถูกต้อง",
-    "msgInvalidIC": "หมายเลข IC ต้องมีความยาว 13 หลัก",
+    "msgInvalidIC": "หมายเลข ID ต้องมีความยาว 13 หลัก",
     "emailAddress": "ที่อยู่อีเมล",
     "qqNumber": "บัญชี QQ",
     "wechatNumber": "บัญชี Wechat",

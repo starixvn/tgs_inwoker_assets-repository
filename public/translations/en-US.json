@@ -98,7 +98,7 @@
     "msgAlreadyExist": "Username Already Exist",
     "msgPlayerNotFound": "Player is not found in the system",
     "msgVerificationCodeIncorrect": "Verification code is incorrect",
-    "msgInvalidIC": "The IC number must be 13 digits long",
+    "msgInvalidIC": "The ID number must be 13 digits long",
     "emailAddress": "Email",
     "qqNumber": "QQ Account",
     "wechatNumber": "Wechat Account",
@@ -233,7 +233,7 @@
     "lost": "Lost",
     "draw": "Draw",
     "betHistory": "Bet History",
-     "authenticateFailed": "Authentication failed"
+    "authenticateFailed": "Authentication failed"
   },
   "affiliate": {
     "title": "Affiliate",
@@ -2060,5 +2060,5 @@
     "expired": "The QR code is expired."
   },
   "PlayerIdNotVerify": "Please verify your identity first",
-  "BankInfoDuplicate" : "Bank card information is duplicated"
+  "BankInfoDuplicate": "Bank card information is duplicated"
 }
