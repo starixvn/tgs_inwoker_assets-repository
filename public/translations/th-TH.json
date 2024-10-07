@@ -215,7 +215,7 @@
     "withdrawalEWalletId": "รหัส E-Wallet",
     "msgWithdrawalEWalletName": "โปรดป้อนชื่อเงินอิเล็กทรอนิกส์",
     "msgWithdrawalEWalletId": "กรุณากรอก ID ของ E-Wallet",
-    "msgEWalletIdNoReachMin": "เบอร์มือถือตั้งไว้ที่ 8 ถึง {{maxlength}} หลัก",
+    "msgEWalletIdNoReachMin": "เบอร์มือถือตั้งไว้ที่ 8 ถึง {maxlength} หลัก",
     "optional": "(ตัวเลือก)",
     "accountBalance": "ยอดเงินคงเหลือในบัญชี",
     "totalDeposit": "ยอดเงินฝากทั้งหมด",

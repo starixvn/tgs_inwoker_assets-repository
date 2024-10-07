@@ -216,7 +216,7 @@
     "withdrawalEWalletId": "E-Wallet ID",
     "msgWithdrawalEWalletName": "Please enter the E-Wallet Holder Name",
     "msgWithdrawalEWalletId": "Please enter your E-Wallet ID",
-    "msgEWalletIdNoReachMin": "The E-Wallet ID is set to 8 to {{maxlength}} digits",
+    "msgEWalletIdNoReachMin": "The E-Wallet ID is set to 8 to {maxlength} digits",
     "optional": "(optional)",
     "accountBalance": "Account Balance",
     "totalDeposit": "Total Deposit",
