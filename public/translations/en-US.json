@@ -233,7 +233,8 @@
     "lost": "Lost",
     "draw": "Draw",
     "betHistory": "Bet History",
-    "authenticateFailed": "Authentication failed"
+    "authenticateFailed": "Authentication failed",
+    "uploadButton": "Upload"
   },
   "affiliate": {
     "title": "Affiliate",
