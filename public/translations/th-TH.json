@@ -977,7 +977,7 @@
       "game": "Game",
       "user": "User",
       "multiplier": "Multiplier",
-      "payout": "Payout",
+      "profit": "Profit",
       "time": "Time"
     },
     "login": {
