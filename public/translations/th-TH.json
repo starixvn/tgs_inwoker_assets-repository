@@ -97,6 +97,7 @@
     "msgPlayerNotFound": "ไม่พบผู้เล่นในระบบ",
     "msgVerificationCodeIncorrect": "รหัสตรวจสอบไม่ถูกต้อง",
     "msgInvalidIC": "หมายเลข ID ต้องมีความยาว 13 หลัก",
+    "msgInvalidName": "ชื่อจริงไม่ถูกต้อง",
     "emailAddress": "ที่อยู่อีเมล",
     "qqNumber": "บัญชี QQ",
     "wechatNumber": "บัญชี Wechat",
@@ -974,11 +975,12 @@
     },
     "latestBets": {
       "title": "เดิมพันล่าสุด",
-      "game": "Game",
-      "user": "User",
-      "multiplier": "Multiplier",
-      "profit": "Profit",
-      "time": "Time"
+      "game": "เกม",
+      "player": "กำลังเล่น",
+      "payout": "การจ่ายเงิน",
+      "multiplier": "ตัวคูณ",
+      "profit": "จำนวนกำไร",
+      "time": "เวลา"
     },
     "login": {
       "login": "เข้าสู่ระบบ",

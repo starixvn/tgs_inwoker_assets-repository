@@ -99,6 +99,7 @@
     "msgPlayerNotFound": "Player is not found in the system",
     "msgVerificationCodeIncorrect": "Verification code is incorrect",
     "msgInvalidIC": "The ID number must be 13 digits long",
+    "msgInvalidName": "Invalid Real Name",
     "emailAddress": "Email",
     "qqNumber": "QQ Account",
     "wechatNumber": "Wechat Account",
@@ -976,7 +977,8 @@
     "latestBets": {
       "title": "Latest Bets",
       "game": "Game",
-      "user": "User",
+      "player": "Player",
+      "payout": "Payout",
       "multiplier": "Multiplier",
       "profit": "Profit",
       "time": "Time"
