@@ -234,7 +234,7 @@
     "lost": "Lost",
     "draw": "Draw",
     "betHistory": "Bet History",
-    "authenticateFailed": "Authentication failed",
+    "authenticateFailed": "Your session has expired, please login again.",
     "uploadButton": "Upload"
   },
   "affiliate": {

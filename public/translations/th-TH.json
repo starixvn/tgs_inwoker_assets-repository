@@ -233,7 +233,7 @@
     "lost": "แพ้",
     "draw": "เสมอ",
     "betHistory": "ประวัติการเดิมพัน",
-    "authenticateFailed": "การตรวจสอบสิทธิ์ล้มเหลว",
+    "authenticateFailed": "เซสชั่นของคุณหมดอายุ โปรดเข้าสู่ระบบอีกครั้ง",
     "uploadButton": "อัปโหลด"
   },
   "affiliate": {
