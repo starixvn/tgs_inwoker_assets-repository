@@ -291,7 +291,7 @@
       "msgEnterPhone": "Please enter phone number"
     },
     "success": {
-      "title": "Add Bank Succesful",
+      "title": "Add Bank Successful",
       "addOtherAccount": "Add Other Account",
       "successDesc": "Congratulations that you have completed the bank account binding. You can quickly select your withdrawal bank when you withdraw later. If you want to bind another banks,",
       "successDescDeposit": "Congratulations that you have completed the bank account binding.",
