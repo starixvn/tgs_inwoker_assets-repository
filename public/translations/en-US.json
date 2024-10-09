@@ -99,7 +99,7 @@
     "msgPlayerNotFound": "Player is not found in the system",
     "msgVerificationCodeIncorrect": "Verification code is incorrect",
     "msgInvalidIC": "The ID number must be 13 digits long",
-    "msgInvalidName": "Invalid Real Name",
+    "msgMaxLengthName": "The real name cannot exceed 256 characters in length.",
     "emailAddress": "Email",
     "qqNumber": "QQ Account",
     "wechatNumber": "Wechat Account",

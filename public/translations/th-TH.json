@@ -97,6 +97,7 @@
     "msgPlayerNotFound": "ไม่พบผู้เล่นในระบบ",
     "msgVerificationCodeIncorrect": "รหัสตรวจสอบไม่ถูกต้อง",
     "msgInvalidIC": "หมายเลข ID ต้องมีความยาว 13 หลัก",
+    "msgMaxLengthName": "ชื่อจริงต้องมีความยาวไม่เกิน 256 ตัวอักษร",
     "msgInvalidName": "ชื่อจริงไม่ถูกต้อง",
     "emailAddress": "ที่อยู่อีเมล",
     "qqNumber": "บัญชี QQ",
