@@ -2063,6 +2063,6 @@
     "expired": "The QR code is expired."
   },
   "PlayerIdNotVerify": "Please verify your identity first",
-  "BankInfoDuplicate": "Bank card information is duplicated",
+  "BankInfoDuplicate": "Your payment information already exists",
   "UserBlocked": "Your account has been disabled. Please contact Customer Service for assistance!"
 }
