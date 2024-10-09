@@ -2028,5 +2028,6 @@
     "list4": "4.If you do not use QR code scanning for payment, please enter the {matchCodeLength}-digit code in the transfer description of your bank app.",
     "expired": "The QR code is expired."
   },
-  "PlayerIdNotVerify": "กรุณายืนยันตัวตนของคุณก่อน"
+  "PlayerIdNotVerify": "กรุณายืนยันตัวตนของคุณก่อน",
+  "UserBlocked": "บัญชีของคุณถูกปิดใช้งาน กรุณาติดต่อฝ่ายสนับสนุนสำหรับข้อมูลเพิ่มเติม"
 }
